@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lesson 8.02b Defining Pi</title>
+<style>html,body{margin:0;padding:0;background:#fff}body{font-family:Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5;color:#2d3b45}img{max-width:100%;height:auto}video{max-width:100%;height:auto}</style>
+<script>window.MathJax={tex:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"],["$$","$$"]],processEscapes:true},options:{skipHtmlTags:["script","noscript","style","textarea","pre","code"]}};</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js"></script>
+</head>
+<body>
+<div style="background: #0E1C42; border-bottom: 5px solid #55C8E8; padding: 22px 34px;">
+    <div style="display: flex; align-items: center; gap: 14px; margin-bottom: 10px;">
+        <div style="width: 52px; height: 52px; border-radius: 50%; background: #FFFFFF; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><img src="https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png" alt="Optima Academy" style="width: 50px; height: 40px; object-fit: contain;" /></div>
+        <div>
+            <div style="font-size: 28px; color: #ffffff; line-height: 1.2;">Optima Academy Online</div>
+            <div style="font-size: 12px; color: #55c8e8;">An Education Experience Company</div>
+        </div>
+    </div>
+    <div style="font-size: 36px; color: #ffffff; margin-bottom: 6px;">GRADE 7 MATHEMATICS</div>
+</div>
+
+<div style="background: #FFFFFF; border-bottom: 2px solid #D0D9E8; display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Quarter / Module</div>
+        <div style="font-size: 18px; color: #0e1c42;">Q4 &middot; Module 8</div>
+        <div style="font-size: 13px; color: #666;">Two-Dimensional Figures & Scaling</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Lesson</div>
+        <div style="font-size: 18px; color: #0e1c42;">8.02b</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Module Theme</div>
+        <div style="font-size: 16px; color: #0e1c42;">Two-Dimensional Figures & Scaling</div>
+    </div>
+</div>
+
+<div style="padding: 24px 34px;">
+
+<div style="background: #EEF1F8; border-left: 5px solid #0E1C42; border-radius: 7px; padding: 18px 22px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #0e1c42; margin-bottom: 8px;">8.02b</div>
+    <div style="font-size: 22px; color: #0e1c42; margin-bottom: 6px;">Defining Pi</div>
+    <div style="font-size: 15px; color: #666;">Lesson</div>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128218; VOCABULARY</div>
+    <p><strong>Area:&nbsp;</strong>H<span>ow much space is inside a shape. For example, if you have a square piece of land and each side is 10 feet long, the area would be 100 square feet because you multiply the length by the width (10 feet * 10 feet = 100 square feet). For shapes like circles, we have special formulas to figure out how much space is inside.</span></p>
+<p><strong>Circle:&nbsp;</strong>A <span>round shape where every point on the edge is the same distance from the center. Imagine tying a string to a pencil. If you hold the end of the string at one point and draw around it, keeping the string tight, you'll make a circle. The point where you're holding the string is the center of the circle.</span></p>
+<p><strong>Circumference:&nbsp;</strong>T<span>he distance around a circle, like a fence that surrounds a yard. If you were to walk all the way around a circular garden, the path you walk would be the garden's circumference. It's like the perimeter, but for round shapes.</span></p>
+<p><strong>Diameter:&nbsp;</strong>A <span>circle is a straight line that goes from one side of the circle to the other side, passing through the center. It's the longest distance you can measure across a circle. If you think of a pizza, the diameter is the length of the pizza when you cut it straight from one edge to the other, through the middle.</span></p>
+<p><strong>Pi (<img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5mQogPWWJRZmJeSW2Skn5OSlKdmrKFcbOBtY2%2BrmZdkACqMAOAIoAik1bAAAA" alt="bold pi" loading="lazy">):&nbsp;</strong>A <span>special number that helps us understand circles. Its value is about 3.14, but it actually goes on forever without repeating. Pi is super important because it relates the circumference of any circle to its diameter. No matter how big or small the circle is, if you divide the circumference by the diameter, you'll always get <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5mQogPWWJRZmJeSW2Snn5RbmJOUp2asoVxs4G1jb6uZl2QAKoxA4AUO0fMV0AAAA%3D" alt="straight pi" loading="lazy">.</span></p>
+<p><strong>Radius:&nbsp;</strong>A<span> circle is the distance from the center of the circle to any point on its edge. If the circle is a pizza, the radius is like a slice from the tip, where the pointy part is, to the crust straight across the middle. It's half the length of the diameter. So, if the diameter is the length of the whole pizza, the radius is the length of half the pizza.</span></p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128161; EXPLORING THE MATH</div>
+    <p>In today's lesson, we will explore one of the most fascinating and important constants in mathematics: the ratio of a circle's circumference to its diameter. This ratio is the same for every circle, large or small, and is represented by the Greek letter <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5mQogPWWJRZmJeSW2Snn5RbmJOUp2asoVxs4G1jb6uZl2QAKoxA4AUO0fMV0AAAA%3D" alt="straight pi" loading="lazy"> (pi). Understanding this universal ratio not only enhances our ability to solve problems involving circles but also connects us to a concept that has intrigued mathematicians for thousands of years. By the end of this lesson, you'll understand how to calculate this ratio and appreciate its constant value across all circles.</p>
+<h4><br>What is the Ratio of Circumference to Diameter?</h4>
+<ul>
+<li>The ratio of a circle's circumference (C) to its diameter (<span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="mord mathnormal">d</span></span></span></span></span>) is a constant number for all circles.</li>
+<li>This constant is known as <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5mQogPWWJRZmJeSW2Snn5RbmJOUp2asoVxs4G1jb6uZl2QAKoxA4AUO0fMV0AAAA%3D" alt="straight pi" loading="lazy">, approximately equal to 3.14, but it is an irrational number with digits that extend infinitely without repeating.</li>
+</ul>
+<p>Let's watch a video on how to find the ratio of a circle's circumference to its diameter.</p>
+<p>(myrec)</p>
+<h4><br>How to Find the Ratio</h4>
+<ul>
+<li>To find the ratio of the circumference to the diameter, divide the circumference by the diameter (<img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5mXbONvpA0iY3305NucLN3BrIzQdLpEAk9EGG2gEAir4zIlsAAAA%3D" alt="C divided by d" loading="lazy">).</li>
+<li><strong>This ratio will always equal <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5mQogPWWJRZmJeSW2Snn5RbmJOUp2asoVxs4G1jb6uZl2QAKoxA4AUO0fMV0AAAA%3D" alt="straight pi" loading="lazy"></strong>:
+<ul>
+<li>Regardless of the circle's size, this division will result in the constant value of <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5mQogPWWJRZmJeSW2Snn5RbmJOUp2asoVxs4G1jb6uZl2QAKoxA4AUO0fMV0AAAA%3D" alt="straight pi" loading="lazy">.</li>
+</ul>
+</li>
+</ul>
+<h4>Understanding the Significance</h4>
+<ul>
+<li>This ratio demonstrates a universal property of all circles.</li>
+<li>Knowing this ratio allows us to predict the circumference of a circle just by knowing its diameter, and vice versa.</li>
+</ul>
+<h4><br>Example 1</h4>
+<p>Circle C has a circumference of <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXZGRjb6QMomN1MBpL0ssSgzMa%2FEVikvvyg3MUfJTk25wtjZwBqoKNMOSACV2AEA4LkebGgAAAA%3D" alt="22 straight pi" loading="lazy"> units and a diameter of 22 units.</p>
+<p>Calculate the ratio of the circle's circumference to its diameter.</p>
+<ul style="list-style-type: disc;">
+<li>The ratio of its circumference to diameter is <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aUWJyUAq087ZRh9IglgpEJY%2BTC7fzhbIyUcoLsovB5J5dkZGQPE8kB4FkMVliUWZiXkltkp5%2BUW5iTlKdmrKFcbOBtYw49C1YbGAOIOASuwASFzZgusAAAA%3D" alt="C over d equals fraction numerator 22 straight pi over denominator 22 end fraction equals straight pi" loading="lazy">.</li>
+<li>The 22 in the circumference divided by the diameter of 22 equals 1, leaving us with <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5mQogPWWJRZmJeSW2Snn5RbmJOUp2asoVxs4G1jb6uZl2QAKoxA4AUO0fMV0AAAA%3D" alt="straight pi" loading="lazy">.</li>
+</ul>
+<h4><br>Example 2</h4>
+<p>Circle D has an approximate circumference of 35.186 units and a diameter 11.2 units.</p>
+<p>Calculate the ratio of the circle's circumference to its diameter.</p>
+<ul>
+<li>The ratio of the circle's circumference to its diameter is <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aUWJyUAq087ZRh9IglgpEJY%2BTC7fzhbIyUcoLsovB5J5dsamQPE8sAo9qIo8O0MLM4ioPlQdTLWhIRbVRihqsVgJtAWbJSYYglhY%2BqDgsAMAGNhjThUBAAA%3D" alt="C over d equals fraction numerator 35.186 over denominator 11.2 end fraction equals 3.14..." loading="lazy"></li>
+<li>3.14 is an approximation for <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5mQogPWWJRZmJeSW2Snn5RbmJOUp2asoVxs4G1jb6uZl2QAKoxA4AUO0fMV0AAAA%3D" alt="straight pi" loading="lazy">.</li>
+</ul>
+<h4><br>Conclusion</h4>
+<p>In this lesson, we've explored the significant ratio of a circle's circumference to its diameter, revealing the constant and universal nature of <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5mQogPWWJRZmJeSW2Snn5RbmJOUp2asoVxs4G1jb6uZl2QAKoxA4AUO0fMV0AAAA%3D" alt="straight pi" loading="lazy">. We've seen that no matter the circle's size, this ratio remains the same, underscoring the inherent beauty and consistency of mathematical principles. By understanding how to calculate this ratio and recognizing its value as <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5mQogPWWJRZmJeSW2Snn5RbmJOUp2asoVxs4G1jb6uZl2QAKoxA4AUO0fMV0AAAA%3D" alt="straight pi" loading="lazy">, we deepen our mathematical literacy and connect with a concept that bridges the divide between the abstract and the tangible in our world. This lesson not only broadens our mathematical knowledge but also enriches our appreciation for the elegant simplicity that underlies the complexity of the universe.</p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#10067; ESSENTIAL QUESTIONS</div>
+    <p>1. <span style="color: var(--ic-brand-font-color-dark); font-size: 1rem;">What is the relationship between the circumference and diameter of a circle?</span></p>
+<p><span style="color: var(--ic-brand-font-color-dark); font-size: 1rem;">2. What is <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5mQogPWWJRZmJeSW2Snn5RbmJOUp2asoVxs4G1jb6uZl2QAKoxA4AUO0fMV0AAAA%3D" alt="straight pi" loading="lazy"> (pi), and why is it important in mathematics?</span></p>
+<p><span style="color: var(--ic-brand-font-color-dark); font-size: 1rem;">3. How was π discovered, and how has it been calculated throughout history?</span></p>
+</div>
+
+</div>
+
+<div style="background: #0E1C42; border-top: 3px solid #55C8E8; padding: 18px 34px; text-align: center;">
+    <div style="font-size: 18px; color: #ffffff; margin-bottom: 6px;"><span style="color: #55c8e8;">Optima Academy Online</span> &middot; GRADE 7 MATHEMATICS &middot; Quarter 4 &middot; Student Lesson Page</div>
+    <div style="font-size: 13px; color: rgba(255,255,255,0.65); margin-bottom: 4px;">8.02b &middot; Defining Pi</div>
+    <div style="font-size: 12px; color: rgba(255,255,255,0.4);">&copy; Optima Academy Online &middot; An Education Experience Company</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lesson 7.03b Creating and Simulating a Simple Experiment</title>
+<style>html,body{margin:0;padding:0;background:#fff}body{font-family:Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5;color:#2d3b45}img{max-width:100%;height:auto}video{max-width:100%;height:auto}</style>
+<script>window.MathJax={tex:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"],["$$","$$"]],processEscapes:true},options:{skipHtmlTags:["script","noscript","style","textarea","pre","code"]}};</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js"></script>
+</head>
+<body>
+<div style="background: #0E1C42; border-bottom: 5px solid #55C8E8; padding: 22px 34px;">
+    <div style="display: flex; align-items: center; gap: 14px; margin-bottom: 10px;">
+        <div style="width: 52px; height: 52px; border-radius: 50%; background: #FFFFFF; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><img src="https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png" alt="Optima Academy" style="width: 50px; height: 40px; object-fit: contain;" /></div>
+        <div>
+            <div style="font-size: 28px; color: #ffffff; line-height: 1.2;">Optima Academy Online</div>
+            <div style="font-size: 12px; color: #55c8e8;">An Education Experience Company</div>
+        </div>
+    </div>
+    <div style="font-size: 36px; color: #ffffff; margin-bottom: 6px;">GRADE 7 MATHEMATICS</div>
+</div>
+
+<div style="background: #FFFFFF; border-bottom: 2px solid #D0D9E8; display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Quarter / Module</div>
+        <div style="font-size: 18px; color: #0e1c42;">Q3 &middot; Module 7</div>
+        <div style="font-size: 13px; color: #666;">Simple Experiments & Probability</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Lesson</div>
+        <div style="font-size: 18px; color: #0e1c42;">7.03b</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Module Theme</div>
+        <div style="font-size: 16px; color: #0e1c42;">Simple Experiments & Probability</div>
+    </div>
+</div>
+
+<div style="padding: 24px 34px;">
+
+<div style="background: #EEF1F8; border-left: 5px solid #0E1C42; border-radius: 7px; padding: 18px 22px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #0e1c42; margin-bottom: 8px;">7.03b</div>
+    <div style="font-size: 22px; color: #0e1c42; margin-bottom: 6px;">Creating and Simulating a Simple Experiment</div>
+    <div style="font-size: 15px; color: #666;">Lesson</div>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128218; VOCABULARY</div>
+    <p><strong>Event: </strong>A<span>&nbsp;result or outcome that can occur in a probability experiment. Events can be simple, like rolling a 3 on a six-sided die, or complex, involving the combination of multiple simple events.</span></p>
+<p><strong>Experimental Probability:&nbsp;</strong>T<span>he probability of an event determined through actual experimentation and observation. It is calculated by dividing the number of times an event occurs by the total number of trials in the experiment.</span></p>
+<p><strong>Fairness:&nbsp;</strong>T<span>he equal likelihood of outcomes in a probability experiment. A game or experiment is considered fair if all possible outcomes have the same chance of happening.</span></p>
+<p><strong>Outcome:&nbsp;</strong>T<span>he result of a single trial of a probability experiment. For instance, if you flip a coin, the outcome can be either heads or tails.</span></p>
+<p><strong>Sample Size:&nbsp;</strong>T<span>he number of observations or trials in an experiment. It is an important factor in determining the reliability of experimental results. Larger sample sizes generally lead to more reliable estimates of probability.</span></p>
+<p><strong>Sample Space:&nbsp;</strong>T<span>he set of all possible outcomes of a probability experiment. For example, the sample space for rolling a six-sided die is {1, 2, 3, 4, 5, 6}.</span></p>
+<p><strong>Simple Experiment:&nbsp;</strong>A <span>probability experiment with a single action that results in a definite outcome. Flipping a coin once is an example of a simple experiment.</span></p>
+<p><strong>Simulation:&nbsp;</strong>A <span>model or representation of a situation used to study the possible outcomes of an experiment without conducting the experiment in real life. Simulations often use random numbers to mimic the process of an experiment.</span></p>
+<p><strong>Theoretical Probability:&nbsp;</strong>T<span>he probability of an event calculated based on the possible outcomes in the sample space, without conducting any actual experiments. It is determined by dividing the number of favorable outcomes by the total number of possible outcomes in the sample space.</span></p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128161; EXPLORING THE MATH</div>
+    <p>In today's lesson, we will explore the <span>process of creating and simulating simple experiments. By the end of this lesson, you'll know how to design an experiment, identify possible outcomes, record results, and calculate both theoretical and experimental probabilities. Let’s ensure our experiments are fair and reliable by keeping conditions consistent. Ready? Let’s get started!</span></p>
+<p><span><br>Let's begin by looking at the steps to design an experiment. Then we will watch a video on designing and simulating a simple experiment.</span></p>
+<h4><br><span style="color: #843fa1;"><strong>Step 1: Define the Experiment</strong></span></h4>
+<p>The first step is to clearly define what your experiment will be about. Decide on the action you'll perform and what you'll be observing. For example, you might choose to flip a coin, roll a dice, or draw cards from a deck.</p>
+<h4><br><span style="color: #843fa1;"><strong>Step 2: Identify Possible Outcomes</strong></span></h4>
+<p>Once you know what your experiment is, list all the possible outcomes. This list is known as the <strong>sample space</strong>. For instance, the sample space for flipping a coin is {Heads, Tails}. For rolling a six-sided dice, it’s {1, 2, 3, 4, 5, 6}.</p>
+<h4><br><span style="color: #843fa1;"><strong>Step 3: Recording Results</strong></span></h4>
+<p>Decide in advance how you will record the outcomes of each trial. This could be a simple tally chart, a table, or a spreadsheet, depending on your preference and the complexity of your experiment. Make sure to record every single trial to ensure accuracy in your results.</p>
+<h4>Maintaining Fairness and Reliability</h4>
+<p>To make your experiment fair and reliable:</p>
+<ul>
+<li><strong>Keep conditions the same</strong> for every trial. For example, flip the coin the same way each time or draw from the deck without looking.</li>
+<li><strong>Conduct enough trials</strong> to get a broad view of the outcomes. More trials help balance out randomness.</li>
+</ul>
+<h4><br><span style="color: #843fa1;"><strong>Step 4: Collect and Organize Data</strong></span></h4>
+<p>As you perform your experiment, collect the data diligently. After completing the desired number of trials, organize your data so it’s easy to analyze. A well-organized table or chart can make this process smoother.</p>
+<h4><br>Step 5: Calculate Probabilities</h4>
+<ul>
+<li><strong>Theoretical Probability</strong>: Based on the sample space, calculate the likelihood of each outcome. For example, the theoretical probability of rolling a 4 on a six-sided dice is 1/6 since one of the six outcomes is a 4.</li>
+<li><strong>Experimental Probability</strong>: Calculate this by dividing the number of times an outcome occurred by the total number of trials. For instance, if you flipped a coin 100 times and got heads 53 times, the experimental probability of getting heads is 53/100.</li>
+</ul>
+<p>&nbsp;</p>
+<h4><span style="color: #e67e23;">Example Experiment: Rolling a Dice</span></h4>
+<ul>
+<li><strong>Experiment</strong>: Roll a six-sided dice 50 times.</li>
+<li><strong>Possible Outcomes</strong>: {1, 2, 3, 4, 5, 6}</li>
+<li><strong>Recording Results</strong>: Create a table to tally each outcome.</li>
+<li><strong>Conducting the Experiment</strong>: Roll the dice under the same conditions each time.
+<ul>
+<li>To keep fairness and the same conditions, we can use a website simulator to roll the dice.</li>
+<li><a href="https://www.geogebra.org/m/UsoH4eNl" target="_blank">https://www.geogebra.org/m/UsoH4eNl</a>&nbsp;</li>
+<li>We will use 1 dice and roll 300 times.</li>
+<li><img id="308552" src="https://optimaondemand.github.io/mj-grade-7-mathematics/media/MAT07M07L03IMGExperiment.png" alt="MAT07M07L03IMGExperiment.png" width="714" height="355" data-api-endpoint="https://optimadomi.instructure.com/api/v1/courses/898/files/308552" data-api-returntype="File" loading="lazy"></li>
+</ul>
+</li>
+<li><strong>Collect Data</strong>: Use your table to record the outcome of each roll.
+<ul>
+<li>We will use the frequencies calculated by the simulator to fill in our table under the Outcome column.</li>
+</ul>
+</li>
+<li><strong>Calculate Probabilities</strong>: Find both the theoretical and experimental probabilities of rolling each number.</li>
+</ul>
+<table style="border-collapse: collapse; width: 41.5616%; height: 313px;" border="1">
+<tbody>
+<tr style="height: 43px;">
+<td style="width: 17.1141%; text-align: center; height: 43px;">Outcomes</td>
+<td style="width: 31.4648%; text-align: center; height: 43px;">Theoretical Probability</td>
+<td style="width: 15.3247%; text-align: center; height: 43px;">Frequency</td>
+<td style="width: 36.0276%; text-align: center; height: 43px;">Experimental Probability</td>
+</tr>
+<tr style="height: 45px;">
+<td style="width: 17.1141%; text-align: center; height: 45px;">1</td>
+<td style="width: 31.4648%; text-align: center; height: 45px;"><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aUWJyUAqz87QRh9IglhmEJY%2BTC7fzhbIyQfLGUBV5dvpwcUMoRpyU%2FOSc%2FKLUxXy8ksSSzLz82yVSvILlFDNhKpBMxZuBMJcUg1ThejTBwWBHQDNgb%2BmCQEAAA%3D%3D" alt="1 over 6 equals 0.16 top enclose 6 equals 16. top enclose 6 percent sign" loading="lazy"></td>
+<td style="width: 15.3247%; text-align: center; height: 45px;">49</td>
+<td style="width: 36.0276%; text-align: center; height: 45px;"><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aUWJyUAqz87E0kYfSIGYxgYGELY%2BTDrfzhbIyQfLQuWAPD24mKEZVDA1LzknvzhVIS%2B%2FJLEkMz%2FPVqkkv0AJYirMTKgaNGPhRiDMJdUwVYg%2BfVAo2AEAuRY7sgwBAAA%3D" alt="49 over 300 equals 0.16 top enclose 3 equals 16. top enclose 3 percent sign" loading="lazy"></td>
+</tr>
+<tr style="height: 41px;">
+<td style="width: 17.1141%; text-align: center; height: 41px;">2</td>
+<td style="width: 31.4648%; text-align: center; height: 41px;"><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aUWJyUAqz87QRh9IglhmEJY%2BTC7fzhbIyQfLGUBV5dvpwcUMoRpyU%2FOSc%2FKLUxXy8ksSSzLz82yVSvILlFDNhKpBMxZuBMJcUg1ThejTBwWBHQDNgb%2BmCQEAAA%3D%3D" alt="1 over 6 equals 0.16 top enclose 6 equals 16. top enclose 6 percent sign" loading="lazy"></td>
+<td style="width: 15.3247%; text-align: center; height: 41px;">47</td>
+<td style="width: 36.0276%; text-align: center; height: 41px;"><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aUWJyUAqz87E3EYfSIGYxgYGELY%2BTDrfzhbIyQfLQuWAPD24mKEpVDA1LzknvzhVIS%2B%2FJLEkMz%2FPVqkkv0AJrMYMZiZUDZqxcCMQ5pJqmCpEnz4oFOwArHnKWgwBAAA%3D" alt="47 over 300 equals 0.15 top enclose 6 equals 15. top enclose 6 percent sign" loading="lazy"></td>
+</tr>
+<tr style="height: 45px;">
+<td style="width: 17.1141%; text-align: center; height: 45px;">3</td>
+<td style="width: 31.4648%; text-align: center; height: 45px;"><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aUWJyUAqz87QRh9IglhmEJY%2BTC7fzhbIyQfLGUBV5dvpwcUMoRpyU%2FOSc%2FKLUxXy8ksSSzLz82yVSvILlFDNhKpBMxZuBMJcUg1ThejTBwWBHQDNgb%2BmCQEAAA%3D%3D" alt="1 over 6 equals 0.16 top enclose 6 equals 16. top enclose 6 percent sign" loading="lazy"></td>
+<td style="width: 15.3247%; text-align: center; height: 45px;">53</td>
+<td style="width: 36.0276%; text-align: center; height: 45px;"><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aUWJyUAqz87U2EYfSIGYxgYGELY%2BTDrfzhbIyQfLQuWAPD24mKE5VDA1LzknvzhVIS%2B%2FJLEkMz%2FPVqkkv0AJrMYMZiZUDZqxcCMQ5pJqmCpEnz4oFOwAz933DAwBAAA%3D" alt="53 over 300 equals 0.17 top enclose 6 equals 17. top enclose 6 percent sign" loading="lazy"></td>
+</tr>
+<tr style="height: 46px;">
+<td style="width: 17.1141%; text-align: center; height: 46px;">4</td>
+<td style="width: 31.4648%; text-align: center; height: 46px;"><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aUWJyUAqz87QRh9IglhmEJY%2BTC7fzhbIyQfLGUBV5dvpwcUMoRpyU%2FOSc%2FKLUxXy8ksSSzLz82yVSvILlFDNhKpBMxZuBMJcUg1ThejTBwWBHQDNgb%2BmCQEAAA%3D%3D" alt="1 over 6 equals 0.16 top enclose 6 equals 16. top enclose 6 percent sign" loading="lazy"></td>
+<td style="width: 15.3247%; text-align: center; height: 46px;">48</td>
+<td style="width: 36.0276%; text-align: center; height: 46px;"><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aUWJyUAqz87EwkYfSIGYxgYGELY%2BTDrfzhbIyQfLQuWAPD24mKEZXNAWm6AqRFAf5D47AOj1CZumAAAA" alt="48 over 300 equals 0.16 equals 16 percent sign" loading="lazy"></td>
+</tr>
+<tr style="height: 47px;">
+<td style="width: 17.1141%; text-align: center; height: 47px;">5</td>
+<td style="width: 31.4648%; text-align: center; height: 47px;"><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aUWJyUAqz87QRh9IglhmEJY%2BTC7fzhbIyQfLGUBV5dvpwcUMoRpyU%2FOSc%2FKLUxXy8ksSSzLz82yVSvILlFDNhKpBMxZuBMJcUg1ThejTBwWBHQDNgb%2BmCQEAAA%3D%3D" alt="1 over 6 equals 0.16 top enclose 6 equals 16. top enclose 6 percent sign" loading="lazy"></td>
+<td style="width: 15.3247%; text-align: center; height: 47px;">44</td>
+<td style="width: 36.0276%; text-align: center; height: 47px;"><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aUWJyUAqz87ExEYfSIGYxgYGELY%2BTDrfzhbIyQfLQuWAPD24mCFMc2peck5%2BcapCXn5JYklmfp6tUkl%2BgRJYjRnMTKgaNGPhRiDMJdUwVYg%2BfVAo2AEA6PKvswwBAAA%3D" alt="44 over 300 equals 0.14 top enclose 6 equals 14. top enclose 6 percent sign" loading="lazy"></td>
+</tr>
+<tr style="height: 46px;">
+<td style="width: 17.1141%; text-align: center; height: 46px;">6</td>
+<td style="width: 31.4648%; text-align: center; height: 46px;"><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aUWJyUAqz87QRh9IglhmEJY%2BTC7fzhbIyQfLGUBV5dvpwcUMoRpyU%2FOSc%2FKLUxXy8ksSSzLz82yVSvILlFDNhKpBMxZuBMJcUg1ThejTBwWBHQDNgb%2BmCQEAAA%3D%3D" alt="1 over 6 equals 0.16 top enclose 6 equals 16. top enclose 6 percent sign" loading="lazy"></td>
+<td style="width: 15.3247%; text-align: center; height: 46px;">59</td>
+<td style="width: 36.0276%; text-align: center; height: 46px;"><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aUWJyUAqz87U0kYfSIGYxgYGELY%2BTDrfzhbIyQfLQuWAPD24mCFMc2peck5%2BcapCXn5JYklmfp6tUkl%2BgRJYjRnMTKgaNGPhRiDMJdUwVYg%2BfVAo2AEATUFyiAwBAAA%3D" alt="59 over 300 equals 0.19 top enclose 6 equals 19. top enclose 6 percent sign" loading="lazy"></td>
+</tr>
+</tbody>
+</table>
+<p>If we keep simulating the experiment and add more rolls, what would we expect to happen to the experimental probabilities?</p>
+<p>If we run 10,000 trials or 50,000, would all of our experimental probabilities ever be equal to the theoretical?</p>
+<h4><br>Conclusion</h4>
+<p>Conducting and simulating experiments is a fun and effective way to understand probability. By following these steps, you can design your own experiments, learn about randomness and chance, and compare your experimental results to theoretical expectations. Remember, consistency in your method ensures fairness and reliability, and analyzing your data teaches you valuable lessons about probability in the real world. Now, it's your turn to be the scientist—what experiment will you conduct?</p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#10067; ESSENTIAL QUESTIONS</div>
+    <p>1. How do you design a simple probability experiment?</p>
+<p>2. What steps are involved in simulating an experiment multiple times?</p>
+<p>3. How can you ensure that your experiment is fair and the data collected is reliable?</p>
+<p>4. What methods can be used to organize and analyze the data from your experiment?</p>
+</div>
+
+</div>
+
+<div style="background: #0E1C42; border-top: 3px solid #55C8E8; padding: 18px 34px; text-align: center;">
+    <div style="font-size: 18px; color: #ffffff; margin-bottom: 6px;"><span style="color: #55c8e8;">Optima Academy Online</span> &middot; GRADE 7 MATHEMATICS &middot; Quarter 3 &middot; Student Lesson Page</div>
+    <div style="font-size: 13px; color: rgba(255,255,255,0.65); margin-bottom: 4px;">7.03b &middot; Creating and Simulating a Simple Experiment</div>
+    <div style="font-size: 12px; color: rgba(255,255,255,0.4);">&copy; Optima Academy Online &middot; An Education Experience Company</div>
+</div>
+
+</body>
+</html>

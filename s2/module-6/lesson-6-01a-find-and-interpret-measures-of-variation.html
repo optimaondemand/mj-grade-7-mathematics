@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lesson 6.01a Find and Interpret Measures of Variation</title>
+<style>html,body{margin:0;padding:0;background:#fff}body{font-family:Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5;color:#2d3b45}img{max-width:100%;height:auto}video{max-width:100%;height:auto}</style>
+<script>window.MathJax={tex:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"],["$$","$$"]],processEscapes:true},options:{skipHtmlTags:["script","noscript","style","textarea","pre","code"]}};</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js"></script>
+</head>
+<body>
+<div style="background: #0E1C42; border-bottom: 5px solid #55C8E8; padding: 22px 34px;">
+    <div style="display: flex; align-items: center; gap: 14px; margin-bottom: 10px;">
+        <div style="width: 52px; height: 52px; border-radius: 50%; background: #FFFFFF; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><img src="https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png" alt="Optima Academy" style="width: 50px; height: 40px; object-fit: contain;" /></div>
+        <div>
+            <div style="font-size: 28px; color: #ffffff; line-height: 1.2;">Optima Academy Online</div>
+            <div style="font-size: 12px; color: #55c8e8;">An Education Experience Company</div>
+        </div>
+    </div>
+    <div style="font-size: 36px; color: #ffffff; margin-bottom: 6px;">GRADE 7 MATHEMATICS</div>
+</div>
+
+<div style="background: #FFFFFF; border-bottom: 2px solid #D0D9E8; display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Quarter / Module</div>
+        <div style="font-size: 18px; color: #0e1c42;">Q3 &middot; Module 6</div>
+        <div style="font-size: 13px; color: #666;">Representing Statistical Data</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Lesson</div>
+        <div style="font-size: 18px; color: #0e1c42;">6.01a</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Module Theme</div>
+        <div style="font-size: 16px; color: #0e1c42;">Representing Statistical Data</div>
+    </div>
+</div>
+
+<div style="padding: 24px 34px;">
+
+<div style="background: #EEF1F8; border-left: 5px solid #0E1C42; border-radius: 7px; padding: 18px 22px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #0e1c42; margin-bottom: 8px;">6.01a</div>
+    <div style="font-size: 22px; color: #0e1c42; margin-bottom: 6px;">Find and Interpret Measures of Variation</div>
+    <div style="font-size: 15px; color: #666;">Lesson</div>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128218; VOCABULARY</div>
+    <p><strong>Data:&nbsp;</strong><span>Information collected in the form of numbers or observations, often used for analysis. Example: Heights of students in a class.</span></p>
+<p><strong>Interquartile Range (IQR):&nbsp;</strong><span>A measure of how spread out the middle half of a data set is. It is the difference between the third quartile (Q3) and the first quartile (Q1). Example: If Q1 is 25 and Q3 is 75, the IQR is \(75 - 25 = 50\).</span></p>
+<p><strong>Mean:&nbsp;</strong><span>The average of a set of numbers, found by adding them all up and then dividing by the number of numbers. Example: The mean of 2, 4, and 6 is \(\frac{(2+4+6)}{3} = 4\).</span></p>
+<p><strong>Measures of Center:&nbsp;</strong><span>Statistical values that represent the middle or center of a data set. Common measures of center include the mean, median, and mode.</span></p>
+<p><strong>Measures of Variation:&nbsp;</strong><span>Statistical values that describe the spread or dispersion of a data set. Common measures of variation include range and interquartile range.</span></p>
+<p><strong>Median:&nbsp;</strong><span>The middle value in a set of numbers when they are arranged in order. If there is an even number of values, the median is the average of the two middle numbers. Example: The median of 3, 5, 7, 9 is 6.</span></p>
+<p><strong>Mode:&nbsp;</strong><span>The number that appears most frequently in a data set. A data set can have more than one mode or no mode at all. Example: The mode of 2, 2, 3, 5, 7 is 2.</span></p>
+<p><strong>Outlier:&nbsp;</strong><span>A value in a data set that is much higher or lower than the other values. Outliers can affect the mean and other statistical measures. Example: In the data set 3, 4, 5, 45, 6, 45 is an outlier.</span></p>
+<p><strong>Quartiles:&nbsp;</strong><span>Values that divide a data set into four equal parts. The first quartile (Q1) is the median of the lower half, and the third quartile (Q3) is the median of the upper half.</span></p>
+<p><strong>Range:&nbsp;</strong><span>The difference between the highest and lowest values in a data set. It gives an idea of how spread out the data is. Example: The range of 3, 7, 10 is \(10 - 3 = 7\).</span></p>
+<p><strong>Skewed Data:&nbsp;</strong><span>Data that is not symmetrically distributed. It can be skewed left (longer tail on the left side) or right (longer tail on the right side). Skewed data can affect the mean and median.</span></p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128161; EXPLORING THE MATH</div>
+    <p>In today's lesson, we will explore two important statistical concepts; the range and the interquartile range (IQR). These statistical measures are called measures of variation. These measures of variation help us to understand how spread out or diverse a set of data is. Today, we will explore these statistical measures using a set of data and interpret their meaning in terms of that data set. In a later lesson, we will explore what these measures mean to a graphical representation and what that data plot will look like.</p>
+<p>&nbsp;</p>
+<h4>What is Range?</h4>
+<p>The <strong>range</strong> is a measure of variation that shows the difference between the highest and lowest values in a data set. It gives us a basic idea of how spread out the data is. <span>It's like measuring the distance from the lowest point to the highest point in your data.</span></p>
+<h4><br>What is Interquartile Range (IQR)?</h4>
+<p>The <strong>interquartile range</strong> is a measure of variation that describes the range of the middle half of a data set. It is calculated by finding the difference between the first quartile (Q1) and the third quartile (Q3).</p>
+<h4><strong><br>How to Find the Range:</strong></h4>
+<ol>
+<li>Identify the highest (maximum) and lowest (minimum) values in your data set.</li>
+<li>Subtract the minimum value from the maximum value.</li>
+<li>The result is the range.</li>
+</ol>
+<h4><strong>Interpreting the Meaning of the Range</strong></h4>
+<p>The range tells you about the spread or variability in your data set. A larger range means there is a wider spread between the lowest and highest values, indicating more variability. Conversely, a smaller range suggests that the data points are closer together, indicating less variability. When interpreting the range, think about what this spread means in the context of your data. For example, in a classroom test score scenario, a large range could indicate that there's a big difference in understanding or performance levels among the students.</p>
+<h4><br>Example 1</h4>
+<p>The students of your class are collecting data on the high temperatures for 7 days. The data set shown represents the high temperatures for the week as recorded.</p>
+<p><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aal5yakpCvkFqXm2StVKCsk5%2BcWptkq1ILmi%2FHIgmWdnbmCjD6RscvPtdICsfDBLTbnC0cAaygWqMSWsxsyCsBoLIuyyMCLCPeZEqDGGqNGH%2BFQfGhggFjB87AAl%2BkGSTgEAAA%3D%3D" alt="open curly brackets 70 comma space 75 comma space 68 comma space 80 comma space 82 comma space 77 comma space 73 close curly brackets" loading="lazy"></p>
+<ul>
+<li>To find the range, first identify the minimum - lowest value - and the maximum - highest value.
+<ul>
+<li>Minimum = \(68\)</li>
+<li>Maximum = \(82\)</li>
+</ul>
+</li>
+<li>Now, subtract the highest and lowest values.
+<ul>
+<li>Range \(=82-68=14\)</li>
+</ul>
+</li>
+</ul>
+<p>Interpretation of range: The range tells us that the high temperatures over the week varied by 14 degrees.</p>
+<h4><br>Example 2</h4>
+<p>A biologist measures the heights of trees in a forest. The data set shown represents the heights, in feet, of the measured trees.</p>
+<p><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aal5yakpCvkFqXm2StVKCsk5%2BcWptkq1ILmi%2FHIgmWdnamCjD6RscvPtdICsfDBLTbnC0cAaygWqMSWsxowIc8yIMMecCHPMiTDHgghzLIgwx5IIcyyh5uhDQlUfGvAgFjAu7AAIkn2IugEAAA%3D%3D" alt="open curly brackets 50 comma space 55 comma space 60 comma space 65 comma space 70 comma space 75 comma space 80 comma space 85 comma space 90 comma space 95 close curly brackets" loading="lazy"></p>
+<ul>
+<li>To find the range, we will first identify the minimum and the maximum of the data set.
+<ul>
+<li>Minimum = \(50\)</li>
+<li>Maximum = \(95\)</li>
+</ul>
+</li>
+<li>Subtract the minimum from the maximum to find the range.
+<ul>
+<li>Range = \(95-50=45\)</li>
+</ul>
+</li>
+</ul>
+<p>Interpretation of Range: The range tells us that the tree heights in the forest vary by 45 feet. This tells us that there is a fairly wide variation in the heights of the trees in the forest showing a significant spread between the highest and lowest heights of trees.</p>
+<h4><strong><br><br>How to Find the IQR:</strong></h4>
+<ol>
+<li>Arrange the data in ascending order.</li>
+<li>Find the median (middle value) of the data set.</li>
+<li>Divide the data into two halves at the median.</li>
+<li>Find the median of each half. These are Q1 and Q3.</li>
+<li>Subtract Q1 from Q3: IQR = Q3 - Q1.</li>
+</ol>
+<h4><strong>Interpreting the Meaning of the Interquartile Range</strong></h4>
+<p>The interquartile range (IQR) tells us about the spread of the middle 50% of the data. It is a measure of variability that indicates the range within which the central half of the data lies.</p>
+<ul>
+<li>A <strong>smaller IQR</strong> suggests that the middle 50% of the data is closely grouped together.</li>
+<li>A <strong>larger IQR</strong> indicates more spread out data in the middle 50%, suggesting greater variability in the data set.</li>
+<li>The IQR is particularly useful because it is not affected by outliers or extreme values, making it a reliable measure of spread for skewed distributions.</li>
+</ul>
+<h4><br>Example 3</h4>
+<p>A teacher collected the test courses of her 18 students on a math test. The data set shows the test scores for her students.</p>
+<p><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAAK1SywqDMBD8FUmhp%2BJqpXnYGOi9fkSxaT2YRDQQofTfG6139%2BBlM0uGmSEZaR6%2BTSbT2bEirfd9CRBCSEORuuENuRAc6khZRn0nSpqXto1%2BJq7XtiIfkjSdG3VFvvPd4EKcVrGLhHhI49QpIreg42G6Zdd1tYpn2xxRbHMowouetzkMkYfl%2B%2BhwhI7A6Oz0zpj%2FwuShHJGH7uPFVi%2F4tw7WYs4odlX9ADKo7xDaAgAA" alt="open curly brackets 75 comma space 80 comma space 93 comma space 65 comma space 62 comma space 70 comma space 71 comma space 70 comma space 81 comma space 90 comma space 85 comma space 80 comma space 75 comma space 90 comma space 68 comma space 86 comma space 90 comma space 78 close curly brackets" loading="lazy"></p>
+<ul>
+<li>Begin by putting the data set in order from smallest to largest.
+<ul>
+<li><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXZmRjb6QMomN99OB8jKB7PUlCscDayhXKAaUyLUWBBWY25AJTWGRKghws1EqSHCXxZEuJkoNUT4y4IIN1uYEVZjSYR7qKbGGKJGH5RA7QB0nBPppwIAAA%3D%3D" alt="62 comma space 65 comma space 68 comma space 70 comma space 70 comma space 71 comma space 75 comma space 75 comma space 78 comma space 80 comma space 80 comma space 81 comma space 85 comma space 86 comma space 90 comma space 90 comma space 90 comma space 93" loading="lazy"></li>
+</ul>
+</li>
+<li>Find the middle of the set of data to split the data in half.
+<ul>
+<li><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAAO2VQWvCMBTHv0qJsNMwOplLtzaw2w569ANEiTaY5JU2ED%2F%2B0tIFIVLfoZeJl%2Bb3J7%2B%2BJq%2BkLYxwVXYx2rYlqZyrPyn13s%2F9ag7NiS7znNFtUPrLdkN4YaQ9aGhlZsEJp8CWZA%2FOgenmLF%2B%2FFTQMhQH%2BGgh6epldvhdfQwzOO8Jh952PxUTOEuEg1oxyhn3Rvz6O6WOtTue0PDqSFLl%2BkOUM0Q6Ug2gZQ7SDre87OWI9kzmr9PW0tTjITCsr940U55JY6btEaFrhX0TFN4FUTxDJR5KRmoGSAj9REZF0pOPt257xGR84Kr6LJ6C%2BQZMdq7EPEu1%2B6PwXRNz3gtcHAAA%3D" alt="bottom enclose 62 comma space 65 comma space 68 comma space 70 comma space 70 comma space 71 comma space 75 comma space 75 comma space 78 end enclose comma space bottom enclose left enclose space 80 comma space 80 comma space 81 comma space 85 comma space 86 comma space 90 comma space 90 comma space 90 comma space 93 end enclose
+space space space space space space space space space space space space L o w e r space H a l f space space space space space space space space space space space space space space space space space space space space space space space space space space space space space space space space space space space space space space space space space space space space space space space space space space U p p e r space H a l f
+" loading="lazy"></li>
+</ul>
+</li>
+<li>Identify the middle of the lower half of the data - Q1
+<ul>
+<li><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXZmRjb6QMomN99OB8jKB7PUlCscDayhXKAaUyLUWBBWY25ASE1qXnJOfnGqQl5%2BSWJJZn6erVJSfoUSimZ9mCICdhkS4R4i%2FEWUGguY04ABawcARdH8UYcBAAA%3D" alt="62 comma space 65 comma space 68 comma space 70 comma space box enclose 70 comma space 71 comma space 75 comma space 75 comma space 78" loading="lazy"></li>
+<li>We find that Q1 = 70</li>
+</ul>
+</li>
+<li>Identify the middle of the upper half of the data - Q3
+<ul>
+<li><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXYWBjb6QMomN99OB8jKB7PUlCscDayhXCLVGBKhxpSQmtS85Jz84lSFvPySxJLM%2FDxbpaT8CqhDzSCa9WGK8NtlSYSbqabGGOY0YMDaAQDITCZEhwEAAA%3D%3D" alt="80 comma space 80 comma space 81 comma space 85 comma space box enclose 86 comma space 90 comma space 90 comma space 90 comma space 93" loading="lazy"></li>
+<li>We find that Q3 = 86</li>
+</ul>
+</li>
+<li>To find the interquartile range (IQR), subtract Q1 from Q3.
+<ul>
+<li>IQR = Q3 - Q1 = 86 - 70 = 16</li>
+</ul>
+</li>
+</ul>
+<p>Interpretation: The IQR tells us that the middle 50% of the test scores ranged from 70 to 86, a spread of 16 points. This is a somewhat significant spread for the middle 50% of the test scores. This suggests a significant variability in the whole data set.</p>
+<h4><br>Example 4</h4>
+<p><span>A study was conducted to understand the daily internet usage of teenagers in a community. Researchers recorded the number of hours each teenager spent online over a day. The data collected from a random sample of 15 teenagers is given.</span></p>
+<p><span><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aal5yakpCvkFqXm2StVKCsk5%2BcWptkq1ILmi%2FHIgmWdnbKMPJG1y8%2B30gKx8sJgpXEwHKpZvp6Zc4WhgDVdiQliJOc1MNiHPZAtS3IxTiRkpSkhynzFVvECm5dTxOdQifUjy0oemQBALmCjtACPI4ofDAgAA" alt="open curly brackets 3.5 comma space 4 comma space 7.5 comma space 4 comma space 4.5 comma space 8 comma space 7 comma space 6 comma space 6.5 comma space 3 comma space 8 comma space 6.5 comma space 7 comma space 6 comma space 5 close curly brackets" loading="lazy"></span></p>
+<ul>
+<li><span>Begin by putting the data in ascending order, least to greatest.</span>
+<ul>
+<li><span><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXbGNvpA0iY3304HyMoHs9SUKxwNrKFcZCV6cDFTwtpMqKyEJMuJUGJGZSUkuY9MbeZUVkKS5RZEK9EHpUQ7ABo%2FqlqQAgAA" alt="3 comma space 3.5 comma space 4 comma space 4 comma space 4.5 comma space 5 comma space 6 comma space 6 comma space 6.5 comma space 6.5 comma space 7 comma space 7 comma space 7.5 comma space 8 comma space 8" loading="lazy"></span></li>
+</ul>
+</li>
+<li><span>Find the middle of the data set to split the data into two halves.</span>
+<ul>
+<li><span><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAAO2UUQuCMBCA%2F4os6ClcUVmWDnrrIR%2F7AStWSm4nOpg%2FPzVbglIqRi%2B9jO%2B2727sDuZwKn0j5aFIXORLGW0wVkqZam5CfMUz215jL1OKxTsg4nAmziEkzBAgqQxAuOgEUgLPzwSZOzhbHQ5kkhEUNB6lu%2Bm2DKuKqfeWn9MWAyudLm%2BhWA8FPxv0zm7qYYoGKfMahdXvqT3TVgMrnS5ft1aqfU0iemZGGAh2ihm9uUgwlUcI1wv8KgzIIaOgINCkNDFNcUm1AnutUE2hpktz2j%2F82kCPuvdRAw01UJz%2F7OQOPJTRoeAFAAA%3D" alt="bottom enclose 3 comma space 3.5 comma space 4 comma space 4 comma space 4.5 comma space 5 comma space 6 end enclose comma space box enclose 6 comma space bottom enclose 6.5 comma space 6.5 comma space 7 comma space 7 comma space 7.5 comma space 8 comma space 8 end enclose
+space space space space space space space space space L o w e r space H a l f space space space space space space space space space space space space space space space space space space space space space space space space U p p e r space H a l f" loading="lazy"></span></li>
+<li><span>Because there is one value in the middle, we will use it in both the lower half and the upper half.</span></li>
+</ul>
+</li>
+<li><span>Using the lower half of the data, find the middle - Q1</span>
+<ul>
+<li><span><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXbGNvpA0iY3304HyMoHs9SUKxwNrKFcZCV6cDFTwtpMqKAkNS85J784VSEvvySxJDM%2Fz1YpJzWtRAlDoT5MJZqxJDmYCCVmRCvRB0WGHQAy7s55kwEAAA%3D%3D" alt="3 comma space 3.5 comma space 4 comma space 4 comma space left enclose space 4.5 comma space 5 comma space 6 comma space 6" loading="lazy"></span></li>
+<li><span>Since there are two values in the middle, we will add the two values and divide by 2.</span></li>
+<li><span><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aUWJyUCqKL8cSObZmdjoA0mb3Hw7bSArH01MDy5mChHTh2s0gglADcy3s4UqRrPBgjLTsDvHCG4C0GN2ALxLqC8HAQAA" alt="fraction numerator 4 plus 4.5 over denominator 2 end fraction equals fraction numerator 8.5 over denominator 2 end fraction equals 4.25" loading="lazy"> = Q1</span></li>
+</ul>
+</li>
+<li><span>Using the upper half of the data, find the middle - Q3</span>
+<ul>
+<li><span><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5eXZmNvpA0iY3304HyMoHs9SUKxwNrKFcZCV6cDFTmmkzJ6QkNS85J784VSEvvySxJDM%2Fz1YpJzWtRAlDoT5MJXHGIishycEWRCvRB0WQHQDfHlrKpwEAAA%3D%3D" alt="6 comma space 6.5 comma space 6.5 comma space 7 comma space left enclose space 7 comma space 7.5 comma space 8 comma space 8" loading="lazy"></span></li>
+<li><span>Since there are two values in the middle, we will add the two values and divide by 2.</span></li>
+<li><span><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5aUWJyUCqKL8cSObZmdvoA0mb3Hw7bSArH1lMH67ICCYA1ZxvZwtVDBXIszM0gRqETzWS0UD32AEAaDNRjb4AAAA%3D" alt="fraction numerator 7 plus 7 over denominator 2 end fraction equals 14 over 2 equals 7" loading="lazy"> = Q3</span></li>
+</ul>
+</li>
+<li><span>To find the interquartile range (IQR), subtract Q1 from Q3.</span>
+<ul>
+<li><span>IQR = Q3 - Q1 = 7 - 4.25 = 2.75</span></li>
+</ul>
+</li>
+</ul>
+<p><span>Interpretation: The IQR of 3 hours indicates that the middle 50% of teenagers in the study have their daily internet usage times spread across a range of 3 hours. This suggests a moderate level of variability in internet usage habits among teenagers. Specifically, half of the teenagers in the sample spend between 3.75 to 6.75 hours online each day.</span></p>
+<h4><span><br><strong>Conclusion</strong></span></h4>
+<p><span>Understanding the range and interquartile range helps us to grasp how varied or consistent a set of data is. The range gives us a quick view of the overall spread, while the IQR focuses on the spread of the central portion of the data, providing a clearer picture in cases where there are extreme values or outliers. These measures are crucial in fields like meteorology, sports, education, and many more, helping us make sense of the world through data.</span></p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#10067; ESSENTIAL QUESTIONS</div>
+    <p>1. What do range and interquartile range tell us about a data set?</p>
+<p>2. How do you calculate these measures of variation?</p>
+<p>3. Why are measures of variation important in understanding data?</p>
+</div>
+
+</div>
+
+<div style="background: #0E1C42; border-top: 3px solid #55C8E8; padding: 18px 34px; text-align: center;">
+    <div style="font-size: 18px; color: #ffffff; margin-bottom: 6px;"><span style="color: #55c8e8;">Optima Academy Online</span> &middot; GRADE 7 MATHEMATICS &middot; Quarter 3 &middot; Student Lesson Page</div>
+    <div style="font-size: 13px; color: rgba(255,255,255,0.65); margin-bottom: 4px;">6.01a &middot; Find and Interpret Measures of Variation</div>
+    <div style="font-size: 12px; color: rgba(255,255,255,0.4);">&copy; Optima Academy Online &middot; An Education Experience Company</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lesson 6.01d Effects of Outliers on Measures</title>
+<style>html,body{margin:0;padding:0;background:#fff}body{font-family:Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5;color:#2d3b45}img{max-width:100%;height:auto}video{max-width:100%;height:auto}</style>
+<script>window.MathJax={tex:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"],["$$","$$"]],processEscapes:true},options:{skipHtmlTags:["script","noscript","style","textarea","pre","code"]}};</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js"></script>
+</head>
+<body>
+<div style="background: #0E1C42; border-bottom: 5px solid #55C8E8; padding: 22px 34px;">
+    <div style="display: flex; align-items: center; gap: 14px; margin-bottom: 10px;">
+        <div style="width: 52px; height: 52px; border-radius: 50%; background: #FFFFFF; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><img src="https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png" alt="Optima Academy" style="width: 50px; height: 40px; object-fit: contain;" /></div>
+        <div>
+            <div style="font-size: 28px; color: #ffffff; line-height: 1.2;">Optima Academy Online</div>
+            <div style="font-size: 12px; color: #55c8e8;">An Education Experience Company</div>
+        </div>
+    </div>
+    <div style="font-size: 36px; color: #ffffff; margin-bottom: 6px;">GRADE 7 MATHEMATICS</div>
+</div>
+
+<div style="background: #FFFFFF; border-bottom: 2px solid #D0D9E8; display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Quarter / Module</div>
+        <div style="font-size: 18px; color: #0e1c42;">Q3 &middot; Module 6</div>
+        <div style="font-size: 13px; color: #666;">Representing Statistical Data</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Lesson</div>
+        <div style="font-size: 18px; color: #0e1c42;">6.01d</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Module Theme</div>
+        <div style="font-size: 16px; color: #0e1c42;">Representing Statistical Data</div>
+    </div>
+</div>
+
+<div style="padding: 24px 34px;">
+
+<div style="background: #EEF1F8; border-left: 5px solid #0E1C42; border-radius: 7px; padding: 18px 22px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #0e1c42; margin-bottom: 8px;">6.01d</div>
+    <div style="font-size: 22px; color: #0e1c42; margin-bottom: 6px;">Effects of Outliers on Measures</div>
+    <div style="font-size: 15px; color: #666;">Lesson</div>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128218; VOCABULARY</div>
+    <p><strong>Data:&nbsp;</strong><span>Information collected in the form of numbers or observations, often used for analysis. Example: Heights of students in a class.</span></p>
+<p><strong>Interquartile Range (IQR):&nbsp;</strong><span>A measure of how spread out the middle half of a data set is. It is the difference between the third quartile (Q3) and the first quartile (Q1). Example: If Q1 is 25 and Q3 is 75, the IQR is \(75 - 25 = 50\).</span></p>
+<p><strong>Mean:&nbsp;</strong><span>The average of a set of numbers, found by adding them all up and then dividing by the number of numbers. Example: The mean of 2, 4, and 6 is \(\frac{(2+4+6)}{3} = 4\).</span></p>
+<p><strong>Measures of Center:&nbsp;</strong><span>Statistical values that represent the middle or center of a data set. Common measures of center include the mean, median, and mode.</span></p>
+<p><strong>Measures of Variation:&nbsp;</strong><span>Statistical values that describe the spread or dispersion of a data set. Common measures of variation include range and interquartile range.</span></p>
+<p><strong>Median:&nbsp;</strong><span>The middle value in a set of numbers when they are arranged in order. If there is an even number of values, the median is the average of the two middle numbers. Example: The median of 3, 5, 7, 9 is \(6\).</span></p>
+<p><strong>Mode:&nbsp;</strong><span>The number that appears most frequently in a data set. A data set can have more than one mode or no mode at all. Example: The mode of 2, 2, 3, 5, 7 is \(2\).</span></p>
+<p><strong>Outlier:&nbsp;</strong><span>A value in a data set that is much higher or lower than the other values. Outliers can affect the mean and other statistical measures. Example: In the data set 3, 4, 5, 45, 6, then \(45\) is an outlier.</span></p>
+<p><strong>Quartiles:&nbsp;</strong><span>Values that divide a data set into four equal parts. The first quartile (Q1) is the median of the lower half, and the third quartile (Q3) is the median of the upper half.</span></p>
+<p><strong>Range:&nbsp;</strong><span>The difference between the highest and lowest values in a data set. It gives an idea of how spread out the data is. Example: The range of 3, 7, 10 is \(10 - 3 = 7.</span></p>
+<p><strong>Skewed Data:&nbsp;</strong><span>Data that is not symmetrically distributed. It can be skewed left (longer tail on the left side) or right (longer tail on the right side). Skewed data can affect the mean and median.</span></p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128161; EXPLORING THE MATH</div>
+    <p><span>In today's lesson, we will be exploring what an outlier is in a data set and how the outlier affects the measures of center and variation.. This lesson will prepare us for the next lessons on understanding appropriate measures of center and variation for data sets, but understanding which values outliers have the greatest effect on and the least effect. Knowing the measures that outliers affect the most can help us to understand how to summarize the data when it comes to its measure of center and variation.</span></p>
+<p><span>&nbsp;</span></p>
+<h4><span style="color: #843fa1;"><strong>Effects of Outliers on Measures of Center and Variation</strong></span></h4>
+<ul>
+<li><strong>Mean:</strong> An outlier can drastically change the mean, pulling it toward the outlier's value.</li>
+<li><strong>Median:</strong> The median is more robust; it's the middle value and less affected by outliers.</li>
+<li><strong>Range:</strong> The range is highly sensitive to outliers, as it depends on the highest and lowest values.</li>
+<li><strong>IQR:</strong> The IQR, focusing on the middle 50% of data, is less influenced by outliers, making it a reliable measure of spread even in their presence.</li>
+</ul>
+<p><br><br>An <span style="text-decoration: underline;"><strong>outlier</strong></span> is a data point in a set that is significantly different from the other data points. It stands out because it is much higher or lower than the rest of the data. In the context of the previous lesson reading, outliers are important because they can greatly influence the statistical measures we use to understand and describe data sets.</p>
+<p><strong>Outliers</strong> can occur for various reasons, such as measurement errors, data entry errors, or natural variations in the data. They are not necessarily mistakes or errors; sometimes, they represent true extremes in the data that can provide valuable insights into the behavior or characteristics of the data set being studied.</p>
+<ul>
+<li><strong>Mean:</strong> Outliers can skew the mean significantly, making it a less reliable measure of the central tendency for the data set.</li>
+<li><strong>Median:</strong> The median is more robust in the presence of outliers, as it simply represents the middle value of an ordered data set, unaffected by the magnitude of any extreme values.</li>
+<li><strong>Range:</strong> The range is highly sensitive to outliers, as it is calculated based on the difference between the highest and lowest values in the data set.</li>
+<li><strong>Interquartile Range (IQR):</strong> The IQR is less affected by outliers because it focuses on the middle 50% of the data, providing a measure of spread that ignores the extremes.</li>
+</ul>
+<p><br>Notice that the median and the IQR are the measures that are the least affected by outliers in a data set. Let's explore some examples.</p>
+<p>&nbsp;</p>
+<h4><span style="color: #e67e23;">Example 1: Heights of Trees with a Smaller Outlier</span></h4>
+<p><strong>Situation:</strong> A botanist measures the heights (in feet) of trees in a forest. Then, they include a young sapling in the data set.</p>
+<p>\(\{50,55,61,48,52,54,53,59,57,55,52,60,14\}\)</p>
+<p>Let's begin by calculating the measures of center and variation for the data set with the measure of the young sapling included.</p>
+<p>Measures of Center</p>
+<ul>
+<li>Mean \(=\frac{50+55+61+48+52+54+53+59+57+55+52+60+14}{13}=\frac{670}{13}\approx51.53846...\)
+<ul>
+<li>Rounded to the nearest hundredth \(\implies 51.54\)</li>
+</ul>
+</li>
+<li>Median \(=14,48,50,52,52,53,\boxed{54},55,55,57,59,60,61=54\)</li>
+</ul>
+<p>Measures of Variation</p>
+<ul>
+<li>Range \(=61-14=47\)</li>
+<li>Interquartile Range \(=14,45,50,\underline{52},52,53,\boxed{54},55,55,\underline{57},59,60,61 \implies 57-52=5\)</li>
+</ul>
+<p>** Notice that there is a large variation between the whole data set, but a much smaller variation between the middle 50%. This is due to the data set including an extreme value that is much smaller than the rest of the set.</p>
+<p><br>Now, if the botanist removes the height of the young sapling to get a better understanding of the measures of the older trees, let's calculate the new measures of center and variation.</p>
+<p>New data set \(\{50,55,61,48,52,54,53,59,57,55,52,60\}\)</p>
+<p>New Measures of Center</p>
+<ul>
+<li>Mean \(=\frac{50+55+61+48+52+54+53+59+57+55+52+60}{12}=\frac{656}{12}=54.6666....\approx54.67\)
+<ul>
+<li>Notice that the mean increased. We learned in the previous lesson that removing a value smaller than the mean will increase the mean. The average tree height increased by 2 feet.</li>
+</ul>
+</li>
+<li>Median \(=48,50,52,52,53,54,\mid 55,55,57,59,60,61=\frac{54+55}{2}=54.5\)
+<ul>
+<li>Notice that the median only increased by half a foot by the removal of the outlier.</li>
+</ul>
+</li>
+</ul>
+<p>The median is the least affected measure of center when a data set contains an outlier.</p>
+<p>New Measures of Variation</p>
+<ul>
+<li>Range \(=61-48=13\)
+<ul>
+<li>The removal of the outlier greatly affected the range significantly decreasing the variation in the heights of the trees.</li>
+</ul>
+</li>
+<li>Interquartile Range \(=48,50,\underline{52,52},53,54,\mid 55,55,\underline{57,59},60,61 \implies 58-52=6\)
+<ul>
+<li>The removal of the outlier only affected the IQR by 1 foot increase. This was much less of a change.</li>
+</ul>
+</li>
+</ul>
+<p><span>Interpretation: Including the young sapling's height in the data set, as an outlier, significantly lowers the mean and increases the range, showing how one small tree can impact our understanding of the forest's tree heights.</span></p>
+<h4><br><span style="color: #e67e23;">Example 2: Outside Temperatures with a Greater Outlier</span></h4>
+<p><strong>Situation:</strong> A meteorologist records the daily high temperatures (in degrees Fahrenheit) for a week: \(\{70, 72, 73, 75, 76\}\). Then, a heatwave hits, recording a high of \(105\).</p>
+<ul>
+<li><strong>Original Data Set:</strong> \(\{70, 72, 73, 75, 76\}\) (Mean \(= 73.2\), Median \(= 73\), Range \(= 6\))</li>
+<li><strong>With Outlier (105 during heatwave):</strong> \(\{70, 72, 73, 75, 76,105\}\)
+<ul>
+<li>New Mean \(= 78.5\) (significantly higher)</li>
+<li>New Median \(=73.5\) (slightly higher)</li>
+<li>New Range \(=35\) (significantly higher)</li>
+</ul>
+</li>
+</ul>
+<p>Interpretation: The heatwave day, as an outlier, raises the mean and range, illustrating how an extreme temperature can skew our perception of the week's weather.</p>
+<p>&nbsp;</p>
+<h4>Conclusion</h4>
+<p>Outliers play a crucial role in data analysis, significantly affecting measures of center and variation. While the mean and range are sensitive to outliers, the median and IQR offer more stability in their presence. Understanding the impact of outliers helps us better interpret data, ensuring we draw accurate conclusions from real-world situations. Always consider the context of your data and the presence of outliers when analyzing and reporting findings.</p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#10067; ESSENTIAL QUESTIONS</div>
+    <p>1. Why is it important to understand the effects of data changes in real-world situations?</p>
+<p>2. What is an outlier and how can you identify one in a data set?</p>
+<p>3. How do outliers affect the mean, median, mode, and range of a data set?</p>
+</div>
+
+</div>
+
+<div style="background: #0E1C42; border-top: 3px solid #55C8E8; padding: 18px 34px; text-align: center;">
+    <div style="font-size: 18px; color: #ffffff; margin-bottom: 6px;"><span style="color: #55c8e8;">Optima Academy Online</span> &middot; GRADE 7 MATHEMATICS &middot; Quarter 3 &middot; Student Lesson Page</div>
+    <div style="font-size: 13px; color: rgba(255,255,255,0.65); margin-bottom: 4px;">6.01d &middot; Effects of Outliers on Measures</div>
+    <div style="font-size: 12px; color: rgba(255,255,255,0.4);">&copy; Optima Academy Online &middot; An Education Experience Company</div>
+</div>
+
+</body>
+</html>
