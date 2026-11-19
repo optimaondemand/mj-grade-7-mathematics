@@ -1,7 +1,7 @@
 {
  "version": 1,
  "module": "M/J Grade 7 Mathematics",
- "made": "2026-11-18",
+ "made": "2026-11-19",
  "lessons": [
   {
    "page": "6-01a-find-and-interpret-measures-of-variation.html",
@@ -759,7 +759,7 @@
    "folder": "7.01a - Defining Likelihood and Identi",
    "combined": {
     "path": "7.01a - Defining Likelihood and Identi/7.01a - all cards.pdf",
-    "bytes": 46676
+    "bytes": 46677
    },
    "files": [
     {
@@ -773,7 +773,7 @@
      "path": "7.01a - Defining Likelihood and Identi/Examples/02 - Moment 1 - Example 2.pdf",
      "thumb": "thumbs/7.01a - Defining Likelihood and Identi/Examples/02 - Moment 1 - Example 2.jpg",
      "activity": "Examples",
-     "label": "Imagine you have a bag of marbles. You have 12 red marbles, 6 blue marbles, 5 yellow marbles, and 2 green marbles. A total of 22 marbles.",
+     "label": "Imagine you have a bag of marbles. You have 12 red marbles, 6 blue marbles, 5 yellow marbles, and 2 green marbles. A total of 25 marbles.",
      "bytes": 21217
     }
    ]
