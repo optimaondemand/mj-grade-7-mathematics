@@ -1,0 +1,1686 @@
+{
+ "module": "M/J Grade 7 Mathematics",
+ "note": "Semester 2 sparkle lessons (6.01a to 9.02b). Per lesson: a title sign, every picture the lesson shows, and each worked example's question when it is plain text. The owl logo, the teacher portrait and figures drawn in HTML are left out.",
+ "look": {
+  "accent": "#C7922C",
+  "paper": "#F6F7FC",
+  "ink": "#0E1C42",
+  "muted": "#5d6883"
+ },
+ "lessons": [
+  {
+   "page": "6-01a-find-and-interpret-measures-of-variation.html",
+   "heading": "6.01a",
+   "title": "Find and Interpret Measures of Variation",
+   "folder": "6.01a - Find and Interpret Measures of",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "AssignmentIcon-1--1.png",
+       "label": "Conclusion"
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Find and Interpret Measures of Variation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-01b-find-and-interpret-measures-of-center.html",
+   "heading": "6.01b",
+   "title": "Find and Interpret Measures of Center",
+   "folder": "6.01b - Find and Interpret Measures of",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Find the mean, median, and mode of the data set. Round values to the nearest hundredths if necessary.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Calculate the mean, median, and mode. Round values to the nearest hundredth if necessary.",
+       "short": "Example 2",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Find and Interpret Measures of Center"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Find and interpret the mean for the data set. Round to the nearest hundredth if necessary.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Find and interpret the mean for the data set. Round to the nearest hundredth if necessary.",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Find and interpret the median for the data set.",
+       "short": "Example 3",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Find and interpret the median for the data set.",
+       "short": "Example 4",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Find and interpret the mode for the data set.",
+       "short": "Example 5",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Find and interpret the mode for the data set.",
+       "short": "Example 6",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-01c-effects-of-addition-or-removal-of-data-values.html",
+   "heading": "6.01c",
+   "title": "Effects of Addition or Removal of Data Values",
+   "folder": "6.01c - Effects of Addition or Removal",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Find and interpret the mean, median, and mode for the data set. Round to the nearest hundredth if necessary.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Find and interpret the range and interquartile range (IQR) for the data set.",
+       "short": "Example 2",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Effects of Addition or Removal of Data Values"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Let's first look at the original measures of center and variation for the data set.",
+       "short": "Example 3",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-01d-effects-of-outliers-on-measures.html",
+   "heading": "6.01d",
+   "title": "Effects of Outliers on Measures",
+   "folder": "6.01d - Effects of Outliers on Measure",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "What are the effects of adding the value 10 to the data set?",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "What are the effects of adding the value 2 to the data set?",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Let's first look at the original measures of center and variation for the data set.",
+       "short": "Example 3",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Effects of Outliers on Measures"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-02a-appropriate-measures-of-center.html",
+   "heading": "6.02a",
+   "title": "Appropriate Measures of Center",
+   "folder": "6.02a - Appropriate Measures of Center",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Find and interpret the mean for the data set. Round to the nearest hundredth if necessary.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Find and interpret the median for the data set.",
+       "short": "Example 2",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Appropriate Measures of Center"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M06L02aIMGBoxPlotTree-Heights.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L02aIMGHistogramWeeklyGroceries.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L02aIMGLinePlotTemperatures.png",
+       "label": "Example 3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-02b-appropriate-measures-of-variation.html",
+   "heading": "6.02b",
+   "title": "Appropriate Measures of Variation",
+   "folder": "6.02b - Appropriate Measures of Variat",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Appropriate Measures of Variation"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M06L02aIMGBoxPlotTree-Heights.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L02aIMGHistogramWeeklyGroceries.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L02aIMGLinePlotTemperatures.png",
+       "label": "Example 3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-03a-comparing-sets-of-data-and-interpreting-measures.html",
+   "heading": "6.03a",
+   "title": "Comparing Sets of Data and Interpreting Measures",
+   "folder": "6.03a - Comparing Sets of Data and Int",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Find the mean, median, and mode of the data set. Round values to the nearest hundredths if necessary.",
+       "short": "Example 3",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Comparing Sets of Data and Interpreting Measures"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Imagine two classrooms, A and B, took a math test. Here are their scores:",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Students in two study groups, X and Y, reported the following hours spent on homework in a week:",
+       "short": "Example 2",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-03b-comparing-and-interpreting-graphical-representations.html",
+   "heading": "6.03b",
+   "title": "Comparing and Interpreting Graphical Representations",
+   "folder": "6.03b - Comparing and Interpreting Gra",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "image-2.png",
+       "label": "Box Plots"
+      },
+      {
+       "type": "picture",
+       "img": "image.png",
+       "label": "Histograms"
+      },
+      {
+       "type": "picture",
+       "img": "image-1.png",
+       "label": "Information from a Dot Plot"
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Comparing and Interpreting Graphical Representations"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L03bIMGHistogram1.png",
+       "label": "Comparing Histograms"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L03bIMGHistogram2.png",
+       "label": "Comparing Histograms"
+      },
+      {
+       "type": "picture",
+       "img": "image-4.png",
+       "label": "Comparing Box Plots"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L03bIMGDotPlot1.png",
+       "label": "Comparing Dot Plots"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L03bIMGDotPlot2.png",
+       "label": "Comparing Dot Plots"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-04a-making-predictions-in-categorical-data.html",
+   "heading": "6.04a",
+   "title": "Making Predictions in Categorical Data",
+   "folder": "6.04a - Making Predictions in Categori",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Making Predictions in Categorical Data"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M06L04aIMFavoritePetsBarChart.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L04aIMGFoodPreferencesBarChart.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "moment",
+       "text": "If the total population is 650 students, approximately how many students in the population would prefer",
+       "short": "Example 3",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "To find the population of dolphins if 50 are tagged using the sample proportion, we need to first find the proportion of the sample.",
+       "short": "Example 4",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-04b-reading-and-interpreting-circle-graphs.html",
+   "heading": "6.04b",
+   "title": "Reading and Interpreting Circle Graphs",
+   "folder": "6.04b - Reading and Interpreting Circl",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Reading and Interpreting Circle Graphs"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M06L04bIMGSchoolSubjectsCircleGraph.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L04bIMGTimeSpentCircleGraph.png",
+       "label": "Example 2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-04c-creating-circle-graphs.html",
+   "heading": "6.04c",
+   "title": "Creating Circle Graphs",
+   "folder": "6.04c - Creating Circle Graphs",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Creating Circle Graphs"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M06L04cIMGExample1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L04cIMGExample1Labeled.png",
+       "label": "Solution:"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L04cIMGExample2.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L04cIMGExample2Labeled.png",
+       "label": "Solution:"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-05a-understanding-the-purpose-of-graphical-representations.html",
+   "heading": "6.05a",
+   "title": "Understanding the Purpose of Graphical Representations",
+   "folder": "6.05a - Understanding the Purpose of G",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Understanding the Purpose of Graphical Representations"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L05aIMGBarGraph.png",
+       "label": "Categorical Graphical Representations"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L05aIMGCircleGraph.png",
+       "label": "Categorical Graphical Representations"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L05aIMGBoxPlot.png",
+       "label": "Numerical Graphical Representations"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L05aIMGHistogram.png",
+       "label": "Numerical Graphical Representations"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L05aIMGLinePlot.png",
+       "label": "Numerical Graphical Representations"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L05aIMGStemandLeafPlot.png",
+       "label": "Numerical Graphical Representations"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L05aIMGBoxPlotSkewed.png",
+       "label": "Numerical Graphical Representations"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L05aIMGHistogramSkewed.png",
+       "label": "Numerical Graphical Representations"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L05aIMGLinePlotSkewed.png",
+       "label": "Numerical Graphical Representations"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L05aIMGStemandLeafPlotSkewed.png",
+       "label": "Numerical Graphical Representations"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-05b-identifying-the-best-graphical-representation.html",
+   "heading": "6.05b",
+   "title": "Identifying the Best Graphical Representation",
+   "folder": "6.05b - Identifying the Best Graphical",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Identifying the Best Graphical Representation"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L05aIMGLinePlotSkewed.png",
+       "label": "Representations for Numerical Data Sets"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L05aIMGBoxPlot.png",
+       "label": "Representations for Numerical Data Sets"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L05aIMGStemandLeafPlotSkewed.png",
+       "label": "Representations for Numerical Data Sets"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L05aIMGHistogram.png",
+       "label": "Representations for Numerical Data Sets"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L04bIMGTimeSpentCircleGraph.png",
+       "label": "Representations for Categorical Data Sets"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L05bIMGDoubleBarGraph.png",
+       "label": "Representations for Categorical Data Sets"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M06L04bIMGTimeSpentCircleGraph.png",
+       "label": "Circle Graph"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L05bIMGDoubleBarGraph.png",
+       "label": "Double Bar Graph"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L05aIMGStemandLeafPlotSkewed.png",
+       "label": "Stem-and-Leaf Plot"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L05aIMGBoxPlot.png",
+       "label": "Box Plot"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "6-05c-choosing-and-creating-the-best-graphical-representation.html",
+   "heading": "6.05c",
+   "title": "Choosing and Creating the Best Graphical Representation",
+   "folder": "6.05c - Choosing and Creating the Best",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Choosing and Creating the Best Graphical Representation"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L05cIMGExampleBoxPlot.png",
+       "label": "Representations for Numerical Data Sets"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L05cIMGExampleStemandLeafPlot.png",
+       "label": "Representations for Numerical Data Sets"
+      },
+      {
+       "type": "picture",
+       "img": "church_age_histogram_adjusted.png",
+       "label": "Representations for Numerical Data Sets"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L05cIMGExampleCircleGraph.png",
+       "label": "Representations for Categorical Data Sets"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M06L05cIMGExampleBarChart.png",
+       "label": "Representations for Categorical Data Sets"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "7-01a-defining-likelihood-and-identifying-likelihood-of-a-chance-event.html",
+   "heading": "7.01a",
+   "title": "Defining Likelihood and Identifying Likelihood of a Chance Event",
+   "folder": "7.01a - Defining Likelihood and Identi",
+   "activities": [
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M07IMG5SectionSpinner.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "moment",
+       "text": "Imagine you have a bag of marbles. You have 12 red marbles, 6 blue marbles, 5 yellow marbles, and 2 green marbles. A total of 22 marbles.",
+       "short": "Example 2",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "7-01b-comparing-chance-events.html",
+   "heading": "7.01b",
+   "title": "Comparing Chance Events",
+   "folder": "7.01b - Comparing Chance Events",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M07IMG5SectionSpinner.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "moment",
+       "text": "What is the likelihood of drawing out a green marble?",
+       "short": "Example 2",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Comparing Chance Events"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M07IMG6SectionSpinner.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M07IMGWeatherForecast.png",
+       "label": "Example 2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "7-02a-defining-and-determining-sample-space.html",
+   "heading": "7.02a",
+   "title": "Defining and Determining Sample Space",
+   "folder": "7.02a - Defining and Determining Sampl",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Defining and Determining Sample Space"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Suppose you are flipping a coin. What is the sample space for flipping a coin?",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "If you are rolling a six-sided dice, what would the sample space be?",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "If you were drawing a marble from a bag that contains 3 green marbles, 4 red marbles, 2 blue marbles, and 5 yellow marbles, what is the sample space?",
+       "short": "Example 3",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "7-02b-defining-and-determining-theoretical-probability.html",
+   "heading": "7.02b",
+   "title": "Defining and Determining Theoretical Probability",
+   "folder": "7.02b - Defining and Determining Theor",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M01L01bIMGSingleRepeat.jpg",
+       "label": "Rewriting a Repeating Decimal as a Fraction"
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Defining and Determining Theoretical Probability"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Imagine you have a 12-sided die, and you want to find the probability of rolling a 4.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Suppose you have a bag with 2 green marbles, 3 red marbles, and 5 blue marbles. What's the probability of drawing a red marble?",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "You have a spinner divided into 8 equal sections numbered 1 through 8. What's the probability of spinning a number greater than 6?",
+       "short": "Example 3",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "What is the probability of rolling a 2 or 7 on a 10-sided die?",
+       "short": "Example 4",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "7-02c-defining-and-determining-experimental-probability.html",
+   "heading": "7.02c",
+   "title": "Defining and Determining Experimental Probability",
+   "folder": "7.02c - Defining and Determining Exper",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Imagine you have a 12-sided die, and you want to find the probability of rolling a 4.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Suppose you have a bag with 2 green marbles, 3 red marbles, and 5 blue marbles. What's the probability of drawing a red marble?",
+       "short": "Example 2",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Defining and Determining Experimental Probability"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "You and your friends simulate an experiment where you roll a 10-sided dice 60 times and record the frequency at which each number appears.",
+       "short": "Example 1",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "7-03a-comparing-theoretical-and-experimental-probabilities.html",
+   "heading": "7.03a",
+   "title": "Comparing Theoretical and Experimental Probabilities",
+   "folder": "7.03a - Comparing Theoretical and Expe",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Imagine you have a 12-sided die, and you want to find the probability of rolling a 4.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Suppose you have a bag with 2 green marbles, 3 red marbles, and 5 blue marbles. What's the probability of drawing a red marble?",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "What is the experimental probability of a 2 or 7 being rolled?",
+       "short": "Example 3",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "What is the experimental probability of a red marble being drawn?",
+       "short": "Example 4",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Comparing Theoretical and Experimental Probabilities"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "7-03b-creating-and-simulating-a-simple-experiment.html",
+   "heading": "7.03b",
+   "title": "Creating and Simulating a Simple Experiment",
+   "folder": "7.03b - Creating and Simulating a Simp",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Suppose you are flipping a coin. What is the sample space for flipping a coin?",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "If you are rolling a six-sided dice, what would the sample space be?",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "If you were drawing a marble from a bag that contains 3 green marbles, 4 red marbles, 2 blue marbles, and 5 yellow marbles, what is the sample space?",
+       "short": "Example 3",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Creating and Simulating a Simple Experiment"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M07L03IMGExperiment.png",
+       "label": "Example Experiment: Rolling a Dice"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "8-01a-area-of-parallelograms-and-rhombi.html",
+   "heading": "8.01a",
+   "title": "Area of Parallelograms and Rhombi",
+   "folder": "8.01a - Area of Parallelograms and Rho",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M08L01aIMGPriorRectangle.png",
+       "label": "What is a Rectangle?"
+      },
+      {
+       "type": "moment",
+       "text": "Find the area of a rectangle with a base of 8 units and a height of 3 units.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M08L01aIMGRectangle1.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "moment",
+       "text": "Find the area of a triangle with a base of 10 units and a height of 5 units.",
+       "short": "Example 3",
+       "imgs": []
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M08L01aIMGTriangle1.png",
+       "label": "Example 4"
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Area of Parallelograms and Rhombi"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M08L01aIMGParallelogram1.png",
+       "label": "Parts of a Parallelogram"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M08L01aIMGParallelogram2.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M08L01aIMGParallelogram3.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "moment",
+       "text": "Find the area of a parallelogram that has a base of 10.3 cm and a height of 7 cm.",
+       "short": "Example 3",
+       "imgs": []
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M08L01aIMGRhombus1.png",
+       "label": "Diagonals in a Rhombus"
+      },
+      {
+       "type": "moment",
+       "text": "Find the area of the rhombus shown that has diagonals of length 8 units and 6 units.",
+       "short": "Example 1",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "8-01b-area-of-trapezoids.html",
+   "heading": "8.01b",
+   "title": "Area of Trapezoids",
+   "folder": "8.01b - Area of Trapezoids",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Area of Trapezoids"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M08L01bIMGTrapezoid.png",
+       "label": "Parts of a Trapezoid"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M08L01bIMGTrapezoid1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "moment",
+       "text": "Find the area of a trapezoid with bases of 6.5 cm and 9.5 cm, and a height of 3 cm.",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "What is the length of the height?",
+       "short": "Example 3",
+       "imgs": []
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M08L01bIMGTrapezoid2.png",
+       "label": "Example 4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "8-01c-area-of-polygons.html",
+   "heading": "8.01c",
+   "title": "Area of Polygons",
+   "folder": "8.01c - Area of Polygons",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M08L01cIMGTriangle1.jpg",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M08L01cIMGTriangle2.jpg",
+       "label": "Example 2"
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Area of Polygons"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M08L01cIMGHexagon1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M08L01cIMGHexagon2.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M08L01cIMGHexagon3.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M08L01cIMGPentagon1.png",
+       "label": "Example 3"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M08L01cIMGPentagon2.png",
+       "label": "Example 4"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M08L01cIMGPentagon3.png",
+       "label": "Example 4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "8-01d-area-of-composite-figures.html",
+   "heading": "8.01d",
+   "title": "Area of Composite Figures",
+   "folder": "8.01d - Area of Composite Figures",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M08L01aIMGPriorRectangle.png",
+       "label": "What is a Rectangle?"
+      },
+      {
+       "type": "moment",
+       "text": "Find the area of a rectangle with a base of 8 units and a height of 3 units.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Find the area of a triangle with a base of 10 units and a height of 5 units.",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M08L01aIMGParallelogram2.png",
+       "label": "Example 3"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M08L01aIMGRhombus2.png",
+       "label": "Example 4"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M08L01bIMGTrapezoid1.png",
+       "label": "Example 5"
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Area of Composite Figures"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M08L01dIMGComposite5.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M08L01dIMGComposite5a.png",
+       "label": "Example 1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "8-02a-circumference-of-a-circle.html",
+   "heading": "8.02a",
+   "title": "Circumference of a Circle",
+   "folder": "8.02a - Circumference of a Circle",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M08L02aIMGCircle1.png",
+       "label": "The Diameter of a Circle"
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Circumference of a Circle"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M08L02aIMGDiameter.jpg",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M08L02aIMGRadius.jpg",
+       "label": "Example 2"
+      },
+      {
+       "type": "moment",
+       "text": "Find the approximate circumference of Circle A, rounded to the nearest hundredth.",
+       "short": "Example 3",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Find the approximate circumference of Circle B, rounded to the nearest hundredth.",
+       "short": "Example 4",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "8-02b-defining-pi.html",
+   "heading": "8.02b",
+   "title": "Defining Pi",
+   "folder": "8.02b - Defining Pi",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Defining Pi"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Calculate the ratio of the circle's circumference to its diameter.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Calculate the ratio of the circle's circumference to its diameter.",
+       "short": "Example 2",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "8-02c-area-of-a-circle.html",
+   "heading": "8.02c",
+   "title": "Area of a Circle",
+   "folder": "8.02c - Area of a Circle",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Area of a Circle"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M08L02cIMGDiameter.jpg",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M08L02bIMGRadius.jpg",
+       "label": "Example 2"
+      },
+      {
+       "type": "moment",
+       "text": "Find the area of the circle, rounded to the nearest hundredth with appropriate units.",
+       "short": "Example 3",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Find the approximate area of Circle F rounded to the nearest hundredth expressed with the appropriate units.",
+       "short": "Example 4",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "8-03a-defining-and-finding-a-scale-factor.html",
+   "heading": "8.03a",
+   "title": "Defining and Finding a Scale Factor",
+   "folder": "8.03a - Defining and Finding a Scale F",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Defining and Finding a Scale Factor"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M08L03aIMGSimilarRectangles.png",
+       "label": "Understanding Scale Factors"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M08L03aIMGSimilarQuad.png",
+       "label": "Understanding Scale Factors"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M08L03aIMGSimilarTriangles.png",
+       "label": "Problem 1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "8-03b-using-scale-factors.html",
+   "heading": "8.03b",
+   "title": "Using Scale Factors",
+   "folder": "8.03b - Using Scale Factors",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "If a recipe calls for 2 cups of flour to 1 cup of sugar, what is the ratio of flour to sugar?",
+       "short": "Example 1",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Using Scale Factors"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M08L03bIMGSimilarQuad.png",
+       "label": "Example"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "8-03c-scale-factors-and-area.html",
+   "heading": "8.03c",
+   "title": "Scale Factors and Area",
+   "folder": "8.03c - Scale Factors and Area",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M08L01aIMGPriorRectangle.png",
+       "label": "What is a Rectangle?"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M08L02cIMGDiameter.jpg",
+       "label": "Example 1"
+      },
+      {
+       "type": "moment",
+       "text": "Find the area of the circle, rounded to the nearest hundredth with appropriate units.",
+       "short": "Example 2",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Scale Factors and Area"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "9-01a-surface-area-of-a-cylinder-using-a-net.html",
+   "heading": "9.01a",
+   "title": "Surface Area of a Cylinder Using a Net",
+   "folder": "9.01a - Surface Area of a Cylinder Usi",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Surface Area of a Cylinder Using a Net"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M09L01aIMGCylinder1.png",
+       "label": "What is a Net for a Cylinder and How Can It Be Used to Find the Surface Area?"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M09L01aIMGNet1.png",
+       "label": "What is a Net for a Cylinder and How Can It Be Used to Find the Surface Area?"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M09L01aIMGCylinder1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M09L01aIMGNet1.png",
+       "label": "Example 1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "9-01b-surface-area-of-a-cylinder.html",
+   "heading": "9.01b",
+   "title": "Surface Area of a Cylinder",
+   "folder": "9.01b - Surface Area of a Cylinder",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Surface Area of a Cylinder"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M09L01bIMGLessonCylinder1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M09L01bIMGLessonCylinder2.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M09L01bIMGLessonCylinder3.png",
+       "label": "Example 3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "9-01c-volume-of-a-cylinder.html",
+   "heading": "9.01c",
+   "title": "Volume of a Cylinder",
+   "folder": "9.01c - Volume of a Cylinder",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Volume of a Cylinder"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M09L01bIMGLessonCylinder1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M09L01bIMGLessonCylinder2.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M09L01bIMGLessonCylinder3.png",
+       "label": "Example 3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "9-02a-finding-missing-dimensions.html",
+   "heading": "9.02a",
+   "title": "Finding Missing Dimensions",
+   "folder": "9.02a - Finding Missing Dimensions",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Finding Missing Dimensions"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M09L02aIMGLessonCylinder2.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M09L02aIMGLessonCylinder3.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT07M09L02aIMGLessonCylinder1.png",
+       "label": "Example 3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "9-02b-solving-real-world-problems.html",
+   "heading": "9.02b",
+   "title": "Solving Real-World Problems",
+   "folder": "9.02b - Solving Real-World Problems",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Solving Real-World Problems"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

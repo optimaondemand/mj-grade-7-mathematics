@@ -1,0 +1,1790 @@
+{
+ "version": 1,
+ "module": "M/J Grade 7 Mathematics",
+ "made": "2026-11-18",
+ "lessons": [
+  {
+   "page": "6-01a-find-and-interpret-measures-of-variation.html",
+   "heading": "6.01a",
+   "title": "Find and Interpret Measures of Variation",
+   "folder": "6.01a - Find and Interpret Measures of",
+   "combined": {
+    "path": "6.01a - Find and Interpret Measures of/6.01a - all cards.pdf",
+    "bytes": 24922
+   },
+   "files": [
+    {
+     "path": "6.01a - Find and Interpret Measures of/Warm-Up/01 - Conclusion.pdf",
+     "thumb": "thumbs/6.01a - Find and Interpret Measures of/Warm-Up/01 - Conclusion.jpg",
+     "activity": "Warm-Up",
+     "label": "Conclusion",
+     "bytes": 21764
+    },
+    {
+     "path": "6.01a - Find and Interpret Measures of/Learn/01 - Sign - Find and Interpret Measures of Variation.pdf",
+     "thumb": "thumbs/6.01a - Find and Interpret Measures of/Learn/01 - Sign - Find and Interpret Measures of Variation.jpg",
+     "activity": "Learn",
+     "label": "Find and Interpret Measures of Variation",
+     "bytes": 18423
+    }
+   ]
+  },
+  {
+   "page": "6-01b-find-and-interpret-measures-of-center.html",
+   "heading": "6.01b",
+   "title": "Find and Interpret Measures of Center",
+   "folder": "6.01b - Find and Interpret Measures of",
+   "combined": {
+    "path": "6.01b - Find and Interpret Measures of/6.01b - all cards.pdf",
+    "bytes": 28062
+   },
+   "files": [
+    {
+     "path": "6.01b - Find and Interpret Measures of/Warm-Up/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/6.01b - Find and Interpret Measures of/Warm-Up/01 - Moment 1 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "Find the mean, median, and mode of the data set. Round values to the nearest hundredths if necessary.",
+     "bytes": 19194
+    },
+    {
+     "path": "6.01b - Find and Interpret Measures of/Warm-Up/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/6.01b - Find and Interpret Measures of/Warm-Up/02 - Moment 2 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "Calculate the mean, median, and mode. Round values to the nearest hundredth if necessary.",
+     "bytes": 19495
+    },
+    {
+     "path": "6.01b - Find and Interpret Measures of/Learn/01 - Sign - Find and Interpret Measures of Center.pdf",
+     "thumb": "thumbs/6.01b - Find and Interpret Measures of/Learn/01 - Sign - Find and Interpret Measures of Center.jpg",
+     "activity": "Learn",
+     "label": "Find and Interpret Measures of Center",
+     "bytes": 18676
+    },
+    {
+     "path": "6.01b - Find and Interpret Measures of/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/6.01b - Find and Interpret Measures of/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Find and interpret the mean for the data set. Round to the nearest hundredth if necessary.",
+     "bytes": 18735
+    },
+    {
+     "path": "6.01b - Find and Interpret Measures of/Examples/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/6.01b - Find and Interpret Measures of/Examples/02 - Moment 2 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Find and interpret the mean for the data set. Round to the nearest hundredth if necessary.",
+     "bytes": 18988
+    },
+    {
+     "path": "6.01b - Find and Interpret Measures of/Examples/03 - Moment 3 - Example 3.pdf",
+     "thumb": "thumbs/6.01b - Find and Interpret Measures of/Examples/03 - Moment 3 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Find and interpret the median for the data set.",
+     "bytes": 17961
+    },
+    {
+     "path": "6.01b - Find and Interpret Measures of/Examples/04 - Moment 4 - Example 4.pdf",
+     "thumb": "thumbs/6.01b - Find and Interpret Measures of/Examples/04 - Moment 4 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "Find and interpret the median for the data set.",
+     "bytes": 17742
+    },
+    {
+     "path": "6.01b - Find and Interpret Measures of/Examples/05 - Moment 5 - Example 5.pdf",
+     "thumb": "thumbs/6.01b - Find and Interpret Measures of/Examples/05 - Moment 5 - Example 5.jpg",
+     "activity": "Examples",
+     "label": "Find and interpret the mode for the data set.",
+     "bytes": 17903
+    },
+    {
+     "path": "6.01b - Find and Interpret Measures of/Examples/06 - Moment 6 - Example 6.pdf",
+     "thumb": "thumbs/6.01b - Find and Interpret Measures of/Examples/06 - Moment 6 - Example 6.jpg",
+     "activity": "Examples",
+     "label": "Find and interpret the mode for the data set.",
+     "bytes": 17506
+    }
+   ]
+  },
+  {
+   "page": "6-01c-effects-of-addition-or-removal-of-data-values.html",
+   "heading": "6.01c",
+   "title": "Effects of Addition or Removal of Data Values",
+   "folder": "6.01c - Effects of Addition or Removal",
+   "combined": {
+    "path": "6.01c - Effects of Addition or Removal/6.01c - all cards.pdf",
+    "bytes": 25059
+   },
+   "files": [
+    {
+     "path": "6.01c - Effects of Addition or Removal/Warm-Up/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/6.01c - Effects of Addition or Removal/Warm-Up/01 - Moment 1 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "Find and interpret the mean, median, and mode for the data set. Round to the nearest hundredth if necessary.",
+     "bytes": 18835
+    },
+    {
+     "path": "6.01c - Effects of Addition or Removal/Warm-Up/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/6.01c - Effects of Addition or Removal/Warm-Up/02 - Moment 2 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "Find and interpret the range and interquartile range (IQR) for the data set.",
+     "bytes": 19990
+    },
+    {
+     "path": "6.01c - Effects of Addition or Removal/Learn/01 - Sign - Effects of Addition or Removal of Data Values.pdf",
+     "thumb": "thumbs/6.01c - Effects of Addition or Removal/Learn/01 - Sign - Effects of Addition or Removal of Data Values.jpg",
+     "activity": "Learn",
+     "label": "Effects of Addition or Removal of Data Values",
+     "bytes": 18315
+    },
+    {
+     "path": "6.01c - Effects of Addition or Removal/Examples/01 - Moment 1 - Example 3.pdf",
+     "thumb": "thumbs/6.01c - Effects of Addition or Removal/Examples/01 - Moment 1 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Let's first look at the original measures of center and variation for the data set.",
+     "bytes": 18943
+    }
+   ]
+  },
+  {
+   "page": "6-01d-effects-of-outliers-on-measures.html",
+   "heading": "6.01d",
+   "title": "Effects of Outliers on Measures",
+   "folder": "6.01d - Effects of Outliers on Measure",
+   "combined": {
+    "path": "6.01d - Effects of Outliers on Measure/6.01d - all cards.pdf",
+    "bytes": 23514
+   },
+   "files": [
+    {
+     "path": "6.01d - Effects of Outliers on Measure/Warm-Up/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/6.01d - Effects of Outliers on Measure/Warm-Up/01 - Moment 1 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "What are the effects of adding the value 10 to the data set?",
+     "bytes": 19394
+    },
+    {
+     "path": "6.01d - Effects of Outliers on Measure/Warm-Up/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/6.01d - Effects of Outliers on Measure/Warm-Up/02 - Moment 2 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "What are the effects of adding the value 2 to the data set?",
+     "bytes": 19627
+    },
+    {
+     "path": "6.01d - Effects of Outliers on Measure/Warm-Up/03 - Moment 3 - Example 3.pdf",
+     "thumb": "thumbs/6.01d - Effects of Outliers on Measure/Warm-Up/03 - Moment 3 - Example 3.jpg",
+     "activity": "Warm-Up",
+     "label": "Let's first look at the original measures of center and variation for the data set.",
+     "bytes": 19390
+    },
+    {
+     "path": "6.01d - Effects of Outliers on Measure/Learn/01 - Sign - Effects of Outliers on Measures.pdf",
+     "thumb": "thumbs/6.01d - Effects of Outliers on Measure/Learn/01 - Sign - Effects of Outliers on Measures.jpg",
+     "activity": "Learn",
+     "label": "Effects of Outliers on Measures",
+     "bytes": 17591
+    }
+   ]
+  },
+  {
+   "page": "6-02a-appropriate-measures-of-center.html",
+   "heading": "6.02a",
+   "title": "Appropriate Measures of Center",
+   "folder": "6.02a - Appropriate Measures of Center",
+   "combined": {
+    "path": "6.02a - Appropriate Measures of Center/6.02a - all cards.pdf",
+    "bytes": 48069
+   },
+   "files": [
+    {
+     "path": "6.02a - Appropriate Measures of Center/Warm-Up/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/6.02a - Appropriate Measures of Center/Warm-Up/01 - Moment 1 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "Find and interpret the mean for the data set. Round to the nearest hundredth if necessary.",
+     "bytes": 18653
+    },
+    {
+     "path": "6.02a - Appropriate Measures of Center/Warm-Up/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/6.02a - Appropriate Measures of Center/Warm-Up/02 - Moment 2 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "Find and interpret the median for the data set.",
+     "bytes": 17250
+    },
+    {
+     "path": "6.02a - Appropriate Measures of Center/Learn/01 - Sign - Appropriate Measures of Center.pdf",
+     "thumb": "thumbs/6.02a - Appropriate Measures of Center/Learn/01 - Sign - Appropriate Measures of Center.jpg",
+     "activity": "Learn",
+     "label": "Appropriate Measures of Center",
+     "bytes": 17933
+    },
+    {
+     "path": "6.02a - Appropriate Measures of Center/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/6.02a - Appropriate Measures of Center/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 24535
+    },
+    {
+     "path": "6.02a - Appropriate Measures of Center/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/6.02a - Appropriate Measures of Center/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 23628
+    },
+    {
+     "path": "6.02a - Appropriate Measures of Center/Examples/03 - Example 3.pdf",
+     "thumb": "thumbs/6.02a - Appropriate Measures of Center/Examples/03 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 29158
+    }
+   ]
+  },
+  {
+   "page": "6-02b-appropriate-measures-of-variation.html",
+   "heading": "6.02b",
+   "title": "Appropriate Measures of Variation",
+   "folder": "6.02b - Appropriate Measures of Variat",
+   "combined": {
+    "path": "6.02b - Appropriate Measures of Variat/6.02b - all cards.pdf",
+    "bytes": 45584
+   },
+   "files": [
+    {
+     "path": "6.02b - Appropriate Measures of Variat/Learn/01 - Sign - Appropriate Measures of Variation.pdf",
+     "thumb": "thumbs/6.02b - Appropriate Measures of Variat/Learn/01 - Sign - Appropriate Measures of Variation.jpg",
+     "activity": "Learn",
+     "label": "Appropriate Measures of Variation",
+     "bytes": 18298
+    },
+    {
+     "path": "6.02b - Appropriate Measures of Variat/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/6.02b - Appropriate Measures of Variat/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 24856
+    },
+    {
+     "path": "6.02b - Appropriate Measures of Variat/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/6.02b - Appropriate Measures of Variat/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 23948
+    },
+    {
+     "path": "6.02b - Appropriate Measures of Variat/Examples/03 - Example 3.pdf",
+     "thumb": "thumbs/6.02b - Appropriate Measures of Variat/Examples/03 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 29482
+    }
+   ]
+  },
+  {
+   "page": "6-03a-comparing-sets-of-data-and-interpreting-measures.html",
+   "heading": "6.03a",
+   "title": "Comparing Sets of Data and Interpreting Measures",
+   "folder": "6.03a - Comparing Sets of Data and Int",
+   "combined": {
+    "path": "6.03a - Comparing Sets of Data and Int/6.03a - all cards.pdf",
+    "bytes": 26971
+   },
+   "files": [
+    {
+     "path": "6.03a - Comparing Sets of Data and Int/Warm-Up/01 - Moment 1 - Example 3.pdf",
+     "thumb": "thumbs/6.03a - Comparing Sets of Data and Int/Warm-Up/01 - Moment 1 - Example 3.jpg",
+     "activity": "Warm-Up",
+     "label": "Find the mean, median, and mode of the data set. Round values to the nearest hundredths if necessary.",
+     "bytes": 19062
+    },
+    {
+     "path": "6.03a - Comparing Sets of Data and Int/Learn/01 - Sign - Comparing Sets of Data and Interpreting Measures.pdf",
+     "thumb": "thumbs/6.03a - Comparing Sets of Data and Int/Learn/01 - Sign - Comparing Sets of Data and Interpreting Measures.jpg",
+     "activity": "Learn",
+     "label": "Comparing Sets of Data and Interpreting Measures",
+     "bytes": 19587
+    },
+    {
+     "path": "6.03a - Comparing Sets of Data and Int/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/6.03a - Comparing Sets of Data and Int/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Imagine two classrooms, A and B, took a math test. Here are their scores:",
+     "bytes": 20431
+    },
+    {
+     "path": "6.03a - Comparing Sets of Data and Int/Examples/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/6.03a - Comparing Sets of Data and Int/Examples/02 - Moment 2 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Students in two study groups, X and Y, reported the following hours spent on homework in a week:",
+     "bytes": 21857
+    }
+   ]
+  },
+  {
+   "page": "6-03b-comparing-and-interpreting-graphical-representations.html",
+   "heading": "6.03b",
+   "title": "Comparing and Interpreting Graphical Representations",
+   "folder": "6.03b - Comparing and Interpreting Gra",
+   "combined": {
+    "path": "6.03b - Comparing and Interpreting Gra/6.03b - all cards.pdf",
+    "bytes": 178941
+   },
+   "files": [
+    {
+     "path": "6.03b - Comparing and Interpreting Gra/Warm-Up/01 - Box Plots.pdf",
+     "thumb": "thumbs/6.03b - Comparing and Interpreting Gra/Warm-Up/01 - Box Plots.jpg",
+     "activity": "Warm-Up",
+     "label": "Box Plots",
+     "bytes": 48644
+    },
+    {
+     "path": "6.03b - Comparing and Interpreting Gra/Warm-Up/02 - Histograms.pdf",
+     "thumb": "thumbs/6.03b - Comparing and Interpreting Gra/Warm-Up/02 - Histograms.jpg",
+     "activity": "Warm-Up",
+     "label": "Histograms",
+     "bytes": 68010
+    },
+    {
+     "path": "6.03b - Comparing and Interpreting Gra/Warm-Up/03 - Information from a Dot Plot.pdf",
+     "thumb": "thumbs/6.03b - Comparing and Interpreting Gra/Warm-Up/03 - Information from a Dot Plot.jpg",
+     "activity": "Warm-Up",
+     "label": "Information from a Dot Plot",
+     "bytes": 24801
+    },
+    {
+     "path": "6.03b - Comparing and Interpreting Gra/Learn/01 - Sign - Comparing and Interpreting Graphical Representations.pdf",
+     "thumb": "thumbs/6.03b - Comparing and Interpreting Gra/Learn/01 - Sign - Comparing and Interpreting Graphical Representations.jpg",
+     "activity": "Learn",
+     "label": "Comparing and Interpreting Graphical Representations",
+     "bytes": 18686
+    },
+    {
+     "path": "6.03b - Comparing and Interpreting Gra/Learn/02 - Comparing Histograms.pdf",
+     "thumb": "thumbs/6.03b - Comparing and Interpreting Gra/Learn/02 - Comparing Histograms.jpg",
+     "activity": "Learn",
+     "label": "Comparing Histograms",
+     "bytes": 25185
+    },
+    {
+     "path": "6.03b - Comparing and Interpreting Gra/Learn/03 - Comparing Histograms.pdf",
+     "thumb": "thumbs/6.03b - Comparing and Interpreting Gra/Learn/03 - Comparing Histograms.jpg",
+     "activity": "Learn",
+     "label": "Comparing Histograms",
+     "bytes": 24666
+    },
+    {
+     "path": "6.03b - Comparing and Interpreting Gra/Learn/04 - Comparing Box Plots.pdf",
+     "thumb": "thumbs/6.03b - Comparing and Interpreting Gra/Learn/04 - Comparing Box Plots.jpg",
+     "activity": "Learn",
+     "label": "Comparing Box Plots",
+     "bytes": 55610
+    },
+    {
+     "path": "6.03b - Comparing and Interpreting Gra/Learn/05 - Comparing Dot Plots.pdf",
+     "thumb": "thumbs/6.03b - Comparing and Interpreting Gra/Learn/05 - Comparing Dot Plots.jpg",
+     "activity": "Learn",
+     "label": "Comparing Dot Plots",
+     "bytes": 28176
+    },
+    {
+     "path": "6.03b - Comparing and Interpreting Gra/Learn/06 - Comparing Dot Plots.pdf",
+     "thumb": "thumbs/6.03b - Comparing and Interpreting Gra/Learn/06 - Comparing Dot Plots.jpg",
+     "activity": "Learn",
+     "label": "Comparing Dot Plots",
+     "bytes": 28336
+    }
+   ]
+  },
+  {
+   "page": "6-04a-making-predictions-in-categorical-data.html",
+   "heading": "6.04a",
+   "title": "Making Predictions in Categorical Data",
+   "folder": "6.04a - Making Predictions in Categori",
+   "combined": {
+    "path": "6.04a - Making Predictions in Categori/6.04a - all cards.pdf",
+    "bytes": 148456
+   },
+   "files": [
+    {
+     "path": "6.04a - Making Predictions in Categori/Learn/01 - Sign - Making Predictions in Categorical Data.pdf",
+     "thumb": "thumbs/6.04a - Making Predictions in Categori/Learn/01 - Sign - Making Predictions in Categorical Data.jpg",
+     "activity": "Learn",
+     "label": "Making Predictions in Categorical Data",
+     "bytes": 18496
+    },
+    {
+     "path": "6.04a - Making Predictions in Categori/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/6.04a - Making Predictions in Categori/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 71220
+    },
+    {
+     "path": "6.04a - Making Predictions in Categori/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/6.04a - Making Predictions in Categori/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 86489
+    },
+    {
+     "path": "6.04a - Making Predictions in Categori/Examples/03 - Moment 1 - Example 3.pdf",
+     "thumb": "thumbs/6.04a - Making Predictions in Categori/Examples/03 - Moment 1 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "If the total population is 650 students, approximately how many students in the population would prefer",
+     "bytes": 20483
+    },
+    {
+     "path": "6.04a - Making Predictions in Categori/Examples/04 - Moment 2 - Example 4.pdf",
+     "thumb": "thumbs/6.04a - Making Predictions in Categori/Examples/04 - Moment 2 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "To find the population of dolphins if 50 are tagged using the sample proportion, we need to first find the proportion of the sample.",
+     "bytes": 19686
+    }
+   ]
+  },
+  {
+   "page": "6-04b-reading-and-interpreting-circle-graphs.html",
+   "heading": "6.04b",
+   "title": "Reading and Interpreting Circle Graphs",
+   "folder": "6.04b - Reading and Interpreting Circl",
+   "combined": {
+    "path": "6.04b - Reading and Interpreting Circl/6.04b - all cards.pdf",
+    "bytes": 160020
+   },
+   "files": [
+    {
+     "path": "6.04b - Reading and Interpreting Circl/Learn/01 - Sign - Reading and Interpreting Circle Graphs.pdf",
+     "thumb": "thumbs/6.04b - Reading and Interpreting Circl/Learn/01 - Sign - Reading and Interpreting Circle Graphs.jpg",
+     "activity": "Learn",
+     "label": "Reading and Interpreting Circle Graphs",
+     "bytes": 18232
+    },
+    {
+     "path": "6.04b - Reading and Interpreting Circl/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/6.04b - Reading and Interpreting Circl/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 78572
+    },
+    {
+     "path": "6.04b - Reading and Interpreting Circl/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/6.04b - Reading and Interpreting Circl/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 96590
+    }
+   ]
+  },
+  {
+   "page": "6-04c-creating-circle-graphs.html",
+   "heading": "6.04c",
+   "title": "Creating Circle Graphs",
+   "folder": "6.04c - Creating Circle Graphs",
+   "combined": {
+    "path": "6.04c - Creating Circle Graphs/6.04c - all cards.pdf",
+    "bytes": 277069
+   },
+   "files": [
+    {
+     "path": "6.04c - Creating Circle Graphs/Learn/01 - Sign - Creating Circle Graphs.pdf",
+     "thumb": "thumbs/6.04c - Creating Circle Graphs/Learn/01 - Sign - Creating Circle Graphs.jpg",
+     "activity": "Learn",
+     "label": "Creating Circle Graphs",
+     "bytes": 17642
+    },
+    {
+     "path": "6.04c - Creating Circle Graphs/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/6.04c - Creating Circle Graphs/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 72488
+    },
+    {
+     "path": "6.04c - Creating Circle Graphs/Examples/02 - Solution.pdf",
+     "thumb": "thumbs/6.04c - Creating Circle Graphs/Examples/02 - Solution.jpg",
+     "activity": "Examples",
+     "label": "Solution:",
+     "bytes": 87828
+    },
+    {
+     "path": "6.04c - Creating Circle Graphs/Examples/03 - Example 2.pdf",
+     "thumb": "thumbs/6.04c - Creating Circle Graphs/Examples/03 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 73507
+    },
+    {
+     "path": "6.04c - Creating Circle Graphs/Examples/04 - Solution.pdf",
+     "thumb": "thumbs/6.04c - Creating Circle Graphs/Examples/04 - Solution.jpg",
+     "activity": "Examples",
+     "label": "Solution:",
+     "bytes": 92561
+    }
+   ]
+  },
+  {
+   "page": "6-05a-understanding-the-purpose-of-graphical-representations.html",
+   "heading": "6.05a",
+   "title": "Understanding the Purpose of Graphical Representations",
+   "folder": "6.05a - Understanding the Purpose of G",
+   "combined": {
+    "path": "6.05a - Understanding the Purpose of G/6.05a - all cards.pdf",
+    "bytes": 380117
+   },
+   "files": [
+    {
+     "path": "6.05a - Understanding the Purpose of G/Learn/01 - Sign - Understanding the Purpose of Graphical Representations.pdf",
+     "thumb": "thumbs/6.05a - Understanding the Purpose of G/Learn/01 - Sign - Understanding the Purpose of Graphical Representations.jpg",
+     "activity": "Learn",
+     "label": "Understanding the Purpose of Graphical Representations",
+     "bytes": 19057
+    },
+    {
+     "path": "6.05a - Understanding the Purpose of G/Learn/02 - Categorical Graphical Representations.pdf",
+     "thumb": "thumbs/6.05a - Understanding the Purpose of G/Learn/02 - Categorical Graphical Representations.jpg",
+     "activity": "Learn",
+     "label": "Categorical Graphical Representations",
+     "bytes": 80459
+    },
+    {
+     "path": "6.05a - Understanding the Purpose of G/Learn/03 - Categorical Graphical Representations.pdf",
+     "thumb": "thumbs/6.05a - Understanding the Purpose of G/Learn/03 - Categorical Graphical Representations.jpg",
+     "activity": "Learn",
+     "label": "Categorical Graphical Representations",
+     "bytes": 75618
+    },
+    {
+     "path": "6.05a - Understanding the Purpose of G/Learn/04 - Numerical Graphical Representations.pdf",
+     "thumb": "thumbs/6.05a - Understanding the Purpose of G/Learn/04 - Numerical Graphical Representations.jpg",
+     "activity": "Learn",
+     "label": "Numerical Graphical Representations",
+     "bytes": 59955
+    },
+    {
+     "path": "6.05a - Understanding the Purpose of G/Learn/05 - Numerical Graphical Representations.pdf",
+     "thumb": "thumbs/6.05a - Understanding the Purpose of G/Learn/05 - Numerical Graphical Representations.jpg",
+     "activity": "Learn",
+     "label": "Numerical Graphical Representations",
+     "bytes": 79895
+    },
+    {
+     "path": "6.05a - Understanding the Purpose of G/Learn/06 - Numerical Graphical Representations.pdf",
+     "thumb": "thumbs/6.05a - Understanding the Purpose of G/Learn/06 - Numerical Graphical Representations.jpg",
+     "activity": "Learn",
+     "label": "Numerical Graphical Representations",
+     "bytes": 30864
+    },
+    {
+     "path": "6.05a - Understanding the Purpose of G/Learn/07 - Numerical Graphical Representations.pdf",
+     "thumb": "thumbs/6.05a - Understanding the Purpose of G/Learn/07 - Numerical Graphical Representations.jpg",
+     "activity": "Learn",
+     "label": "Numerical Graphical Representations",
+     "bytes": 20236
+    },
+    {
+     "path": "6.05a - Understanding the Purpose of G/Learn/08 - Numerical Graphical Representations.pdf",
+     "thumb": "thumbs/6.05a - Understanding the Purpose of G/Learn/08 - Numerical Graphical Representations.jpg",
+     "activity": "Learn",
+     "label": "Numerical Graphical Representations",
+     "bytes": 62736
+    },
+    {
+     "path": "6.05a - Understanding the Purpose of G/Learn/09 - Numerical Graphical Representations.pdf",
+     "thumb": "thumbs/6.05a - Understanding the Purpose of G/Learn/09 - Numerical Graphical Representations.jpg",
+     "activity": "Learn",
+     "label": "Numerical Graphical Representations",
+     "bytes": 76159
+    },
+    {
+     "path": "6.05a - Understanding the Purpose of G/Learn/10 - Numerical Graphical Representations.pdf",
+     "thumb": "thumbs/6.05a - Understanding the Purpose of G/Learn/10 - Numerical Graphical Representations.jpg",
+     "activity": "Learn",
+     "label": "Numerical Graphical Representations",
+     "bytes": 26776
+    },
+    {
+     "path": "6.05a - Understanding the Purpose of G/Learn/11 - Numerical Graphical Representations.pdf",
+     "thumb": "thumbs/6.05a - Understanding the Purpose of G/Learn/11 - Numerical Graphical Representations.jpg",
+     "activity": "Learn",
+     "label": "Numerical Graphical Representations",
+     "bytes": 21483
+    }
+   ]
+  },
+  {
+   "page": "6-05b-identifying-the-best-graphical-representation.html",
+   "heading": "6.05b",
+   "title": "Identifying the Best Graphical Representation",
+   "folder": "6.05b - Identifying the Best Graphical",
+   "combined": {
+    "path": "6.05b - Identifying the Best Graphical/6.05b - all cards.pdf",
+    "bytes": 297423
+   },
+   "files": [
+    {
+     "path": "6.05b - Identifying the Best Graphical/Learn/01 - Sign - Identifying the Best Graphical Representation.pdf",
+     "thumb": "thumbs/6.05b - Identifying the Best Graphical/Learn/01 - Sign - Identifying the Best Graphical Representation.jpg",
+     "activity": "Learn",
+     "label": "Identifying the Best Graphical Representation",
+     "bytes": 19466
+    },
+    {
+     "path": "6.05b - Identifying the Best Graphical/Learn/02 - Representations for Numerical Data Sets.pdf",
+     "thumb": "thumbs/6.05b - Identifying the Best Graphical/Learn/02 - Representations for Numerical Data Sets.jpg",
+     "activity": "Learn",
+     "label": "Representations for Numerical Data Sets",
+     "bytes": 28156
+    },
+    {
+     "path": "6.05b - Identifying the Best Graphical/Learn/03 - Representations for Numerical Data Sets.pdf",
+     "thumb": "thumbs/6.05b - Identifying the Best Graphical/Learn/03 - Representations for Numerical Data Sets.jpg",
+     "activity": "Learn",
+     "label": "Representations for Numerical Data Sets",
+     "bytes": 61334
+    },
+    {
+     "path": "6.05b - Identifying the Best Graphical/Learn/04 - Representations for Numerical Data Sets.pdf",
+     "thumb": "thumbs/6.05b - Identifying the Best Graphical/Learn/04 - Representations for Numerical Data Sets.jpg",
+     "activity": "Learn",
+     "label": "Representations for Numerical Data Sets",
+     "bytes": 22862
+    },
+    {
+     "path": "6.05b - Identifying the Best Graphical/Learn/05 - Representations for Numerical Data Sets.pdf",
+     "thumb": "thumbs/6.05b - Identifying the Best Graphical/Learn/05 - Representations for Numerical Data Sets.jpg",
+     "activity": "Learn",
+     "label": "Representations for Numerical Data Sets",
+     "bytes": 81275
+    },
+    {
+     "path": "6.05b - Identifying the Best Graphical/Learn/06 - Representations for Categorical Data Sets.pdf",
+     "thumb": "thumbs/6.05b - Identifying the Best Graphical/Learn/06 - Representations for Categorical Data Sets.jpg",
+     "activity": "Learn",
+     "label": "Representations for Categorical Data Sets",
+     "bytes": 97680
+    },
+    {
+     "path": "6.05b - Identifying the Best Graphical/Learn/07 - Representations for Categorical Data Sets.pdf",
+     "thumb": "thumbs/6.05b - Identifying the Best Graphical/Learn/07 - Representations for Categorical Data Sets.jpg",
+     "activity": "Learn",
+     "label": "Representations for Categorical Data Sets",
+     "bytes": 93141
+    },
+    {
+     "path": "6.05b - Identifying the Best Graphical/Examples/01 - Circle Graph.pdf",
+     "thumb": "thumbs/6.05b - Identifying the Best Graphical/Examples/01 - Circle Graph.jpg",
+     "activity": "Examples",
+     "label": "Circle Graph",
+     "bytes": 96277
+    },
+    {
+     "path": "6.05b - Identifying the Best Graphical/Examples/02 - Double Bar Graph.pdf",
+     "thumb": "thumbs/6.05b - Identifying the Best Graphical/Examples/02 - Double Bar Graph.jpg",
+     "activity": "Examples",
+     "label": "Double Bar Graph",
+     "bytes": 92791
+    },
+    {
+     "path": "6.05b - Identifying the Best Graphical/Examples/03 - Stem-and-Leaf Plot.pdf",
+     "thumb": "thumbs/6.05b - Identifying the Best Graphical/Examples/03 - Stem-and-Leaf Plot.jpg",
+     "activity": "Examples",
+     "label": "Stem-and-Leaf Plot",
+     "bytes": 22008
+    },
+    {
+     "path": "6.05b - Identifying the Best Graphical/Examples/04 - Box Plot.pdf",
+     "thumb": "thumbs/6.05b - Identifying the Best Graphical/Examples/04 - Box Plot.jpg",
+     "activity": "Examples",
+     "label": "Box Plot",
+     "bytes": 60767
+    }
+   ]
+  },
+  {
+   "page": "6-05c-choosing-and-creating-the-best-graphical-representation.html",
+   "heading": "6.05c",
+   "title": "Choosing and Creating the Best Graphical Representation",
+   "folder": "6.05c - Choosing and Creating the Best",
+   "combined": {
+    "path": "6.05c - Choosing and Creating the Best/6.05c - all cards.pdf",
+    "bytes": 239286
+   },
+   "files": [
+    {
+     "path": "6.05c - Choosing and Creating the Best/Learn/01 - Sign - Choosing and Creating the Best Graphical Representation.pdf",
+     "thumb": "thumbs/6.05c - Choosing and Creating the Best/Learn/01 - Sign - Choosing and Creating the Best Graphical Representation.jpg",
+     "activity": "Learn",
+     "label": "Choosing and Creating the Best Graphical Representation",
+     "bytes": 18487
+    },
+    {
+     "path": "6.05c - Choosing and Creating the Best/Learn/02 - Representations for Numerical Data Sets.pdf",
+     "thumb": "thumbs/6.05c - Choosing and Creating the Best/Learn/02 - Representations for Numerical Data Sets.jpg",
+     "activity": "Learn",
+     "label": "Representations for Numerical Data Sets",
+     "bytes": 34677
+    },
+    {
+     "path": "6.05c - Choosing and Creating the Best/Learn/03 - Representations for Numerical Data Sets.pdf",
+     "thumb": "thumbs/6.05c - Choosing and Creating the Best/Learn/03 - Representations for Numerical Data Sets.jpg",
+     "activity": "Learn",
+     "label": "Representations for Numerical Data Sets",
+     "bytes": 24530
+    },
+    {
+     "path": "6.05c - Choosing and Creating the Best/Learn/04 - Representations for Numerical Data Sets.pdf",
+     "thumb": "thumbs/6.05c - Choosing and Creating the Best/Learn/04 - Representations for Numerical Data Sets.jpg",
+     "activity": "Learn",
+     "label": "Representations for Numerical Data Sets",
+     "bytes": 83499
+    },
+    {
+     "path": "6.05c - Choosing and Creating the Best/Learn/05 - Representations for Categorical Data Sets.pdf",
+     "thumb": "thumbs/6.05c - Choosing and Creating the Best/Learn/05 - Representations for Categorical Data Sets.jpg",
+     "activity": "Learn",
+     "label": "Representations for Categorical Data Sets",
+     "bytes": 82677
+    },
+    {
+     "path": "6.05c - Choosing and Creating the Best/Learn/06 - Representations for Categorical Data Sets.pdf",
+     "thumb": "thumbs/6.05c - Choosing and Creating the Best/Learn/06 - Representations for Categorical Data Sets.jpg",
+     "activity": "Learn",
+     "label": "Representations for Categorical Data Sets",
+     "bytes": 86254
+    }
+   ]
+  },
+  {
+   "page": "7-01a-defining-likelihood-and-identifying-likelihood-of-a-chance-event.html",
+   "heading": "7.01a",
+   "title": "Defining Likelihood and Identifying Likelihood of a Chance Event",
+   "folder": "7.01a - Defining Likelihood and Identi",
+   "combined": {
+    "path": "7.01a - Defining Likelihood and Identi/7.01a - all cards.pdf",
+    "bytes": 46676
+   },
+   "files": [
+    {
+     "path": "7.01a - Defining Likelihood and Identi/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/7.01a - Defining Likelihood and Identi/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 39907
+    },
+    {
+     "path": "7.01a - Defining Likelihood and Identi/Examples/02 - Moment 1 - Example 2.pdf",
+     "thumb": "thumbs/7.01a - Defining Likelihood and Identi/Examples/02 - Moment 1 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Imagine you have a bag of marbles. You have 12 red marbles, 6 blue marbles, 5 yellow marbles, and 2 green marbles. A total of 22 marbles.",
+     "bytes": 21217
+    }
+   ]
+  },
+  {
+   "page": "7-01b-comparing-chance-events.html",
+   "heading": "7.01b",
+   "title": "Comparing Chance Events",
+   "folder": "7.01b - Comparing Chance Events",
+   "combined": {
+    "path": "7.01b - Comparing Chance Events/7.01b - all cards.pdf",
+    "bytes": 90391
+   },
+   "files": [
+    {
+     "path": "7.01b - Comparing Chance Events/Warm-Up/01 - Example 1.pdf",
+     "thumb": "thumbs/7.01b - Comparing Chance Events/Warm-Up/01 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "Example 1",
+     "bytes": 40394
+    },
+    {
+     "path": "7.01b - Comparing Chance Events/Warm-Up/02 - Moment 1 - Example 2.pdf",
+     "thumb": "thumbs/7.01b - Comparing Chance Events/Warm-Up/02 - Moment 1 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "What is the likelihood of drawing out a green marble?",
+     "bytes": 19622
+    },
+    {
+     "path": "7.01b - Comparing Chance Events/Learn/01 - Sign - Comparing Chance Events.pdf",
+     "thumb": "thumbs/7.01b - Comparing Chance Events/Learn/01 - Sign - Comparing Chance Events.jpg",
+     "activity": "Learn",
+     "label": "Comparing Chance Events",
+     "bytes": 17977
+    },
+    {
+     "path": "7.01b - Comparing Chance Events/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/7.01b - Comparing Chance Events/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 44896
+    },
+    {
+     "path": "7.01b - Comparing Chance Events/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/7.01b - Comparing Chance Events/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 32707
+    }
+   ]
+  },
+  {
+   "page": "7-02a-defining-and-determining-sample-space.html",
+   "heading": "7.02a",
+   "title": "Defining and Determining Sample Space",
+   "folder": "7.02a - Defining and Determining Sampl",
+   "combined": {
+    "path": "7.02a - Defining and Determining Sampl/7.02a - all cards.pdf",
+    "bytes": 26239
+   },
+   "files": [
+    {
+     "path": "7.02a - Defining and Determining Sampl/Learn/01 - Sign - Defining and Determining Sample Space.pdf",
+     "thumb": "thumbs/7.02a - Defining and Determining Sampl/Learn/01 - Sign - Defining and Determining Sample Space.jpg",
+     "activity": "Learn",
+     "label": "Defining and Determining Sample Space",
+     "bytes": 18144
+    },
+    {
+     "path": "7.02a - Defining and Determining Sampl/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/7.02a - Defining and Determining Sampl/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Suppose you are flipping a coin. What is the sample space for flipping a coin?",
+     "bytes": 20279
+    },
+    {
+     "path": "7.02a - Defining and Determining Sampl/Examples/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/7.02a - Defining and Determining Sampl/Examples/02 - Moment 2 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "If you are rolling a six-sided dice, what would the sample space be?",
+     "bytes": 20965
+    },
+    {
+     "path": "7.02a - Defining and Determining Sampl/Examples/03 - Moment 3 - Example 3.pdf",
+     "thumb": "thumbs/7.02a - Defining and Determining Sampl/Examples/03 - Moment 3 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "If you were drawing a marble from a bag that contains 3 green marbles, 4 red marbles, 2 blue marbles, and 5 yellow marbles, what is the sample space?",
+     "bytes": 21117
+    }
+   ]
+  },
+  {
+   "page": "7-02b-defining-and-determining-theoretical-probability.html",
+   "heading": "7.02b",
+   "title": "Defining and Determining Theoretical Probability",
+   "folder": "7.02b - Defining and Determining Theor",
+   "combined": {
+    "path": "7.02b - Defining and Determining Theor/7.02b - all cards.pdf",
+    "bytes": 791349
+   },
+   "files": [
+    {
+     "path": "7.02b - Defining and Determining Theor/Warm-Up/01 - Rewriting a Repeating Decimal as a Fraction.pdf",
+     "thumb": "thumbs/7.02b - Defining and Determining Theor/Warm-Up/01 - Rewriting a Repeating Decimal as a Fraction.jpg",
+     "activity": "Warm-Up",
+     "label": "Rewriting a Repeating Decimal as a Fraction",
+     "bytes": 780712
+    },
+    {
+     "path": "7.02b - Defining and Determining Theor/Learn/01 - Sign - Defining and Determining Theoretical Probability.pdf",
+     "thumb": "thumbs/7.02b - Defining and Determining Theor/Learn/01 - Sign - Defining and Determining Theoretical Probability.jpg",
+     "activity": "Learn",
+     "label": "Defining and Determining Theoretical Probability",
+     "bytes": 18854
+    },
+    {
+     "path": "7.02b - Defining and Determining Theor/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/7.02b - Defining and Determining Theor/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Imagine you have a 12-sided die, and you want to find the probability of rolling a 4.",
+     "bytes": 20431
+    },
+    {
+     "path": "7.02b - Defining and Determining Theor/Examples/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/7.02b - Defining and Determining Theor/Examples/02 - Moment 2 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Suppose you have a bag with 2 green marbles, 3 red marbles, and 5 blue marbles. What's the probability of drawing a red marble?",
+     "bytes": 22174
+    },
+    {
+     "path": "7.02b - Defining and Determining Theor/Examples/03 - Moment 3 - Example 3.pdf",
+     "thumb": "thumbs/7.02b - Defining and Determining Theor/Examples/03 - Moment 3 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "You have a spinner divided into 8 equal sections numbered 1 through 8. What's the probability of spinning a number greater than 6?",
+     "bytes": 22369
+    },
+    {
+     "path": "7.02b - Defining and Determining Theor/Examples/04 - Moment 4 - Example 4.pdf",
+     "thumb": "thumbs/7.02b - Defining and Determining Theor/Examples/04 - Moment 4 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "What is the probability of rolling a 2 or 7 on a 10-sided die?",
+     "bytes": 19703
+    }
+   ]
+  },
+  {
+   "page": "7-02c-defining-and-determining-experimental-probability.html",
+   "heading": "7.02c",
+   "title": "Defining and Determining Experimental Probability",
+   "folder": "7.02c - Defining and Determining Exper",
+   "combined": {
+    "path": "7.02c - Defining and Determining Exper/7.02c - all cards.pdf",
+    "bytes": 27937
+   },
+   "files": [
+    {
+     "path": "7.02c - Defining and Determining Exper/Warm-Up/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/7.02c - Defining and Determining Exper/Warm-Up/01 - Moment 1 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "Imagine you have a 12-sided die, and you want to find the probability of rolling a 4.",
+     "bytes": 20431
+    },
+    {
+     "path": "7.02c - Defining and Determining Exper/Warm-Up/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/7.02c - Defining and Determining Exper/Warm-Up/02 - Moment 2 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "Suppose you have a bag with 2 green marbles, 3 red marbles, and 5 blue marbles. What's the probability of drawing a red marble?",
+     "bytes": 21961
+    },
+    {
+     "path": "7.02c - Defining and Determining Exper/Learn/01 - Sign - Defining and Determining Experimental Probability.pdf",
+     "thumb": "thumbs/7.02c - Defining and Determining Exper/Learn/01 - Sign - Defining and Determining Experimental Probability.jpg",
+     "activity": "Learn",
+     "label": "Defining and Determining Experimental Probability",
+     "bytes": 19450
+    },
+    {
+     "path": "7.02c - Defining and Determining Exper/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/7.02c - Defining and Determining Exper/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "You and your friends simulate an experiment where you roll a 10-sided dice 60 times and record the frequency at which each number appears.",
+     "bytes": 20694
+    }
+   ]
+  },
+  {
+   "page": "7-03a-comparing-theoretical-and-experimental-probabilities.html",
+   "heading": "7.03a",
+   "title": "Comparing Theoretical and Experimental Probabilities",
+   "folder": "7.03a - Comparing Theoretical and Expe",
+   "combined": {
+    "path": "7.03a - Comparing Theoretical and Expe/7.03a - all cards.pdf",
+    "bytes": 27663
+   },
+   "files": [
+    {
+     "path": "7.03a - Comparing Theoretical and Expe/Warm-Up/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/7.03a - Comparing Theoretical and Expe/Warm-Up/01 - Moment 1 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "Imagine you have a 12-sided die, and you want to find the probability of rolling a 4.",
+     "bytes": 20871
+    },
+    {
+     "path": "7.03a - Comparing Theoretical and Expe/Warm-Up/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/7.03a - Comparing Theoretical and Expe/Warm-Up/02 - Moment 2 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "Suppose you have a bag with 2 green marbles, 3 red marbles, and 5 blue marbles. What's the probability of drawing a red marble?",
+     "bytes": 22173
+    },
+    {
+     "path": "7.03a - Comparing Theoretical and Expe/Warm-Up/03 - Moment 3 - Example 3.pdf",
+     "thumb": "thumbs/7.03a - Comparing Theoretical and Expe/Warm-Up/03 - Moment 3 - Example 3.jpg",
+     "activity": "Warm-Up",
+     "label": "What is the experimental probability of a 2 or 7 being rolled?",
+     "bytes": 20353
+    },
+    {
+     "path": "7.03a - Comparing Theoretical and Expe/Warm-Up/04 - Moment 4 - Example 4.pdf",
+     "thumb": "thumbs/7.03a - Comparing Theoretical and Expe/Warm-Up/04 - Moment 4 - Example 4.jpg",
+     "activity": "Warm-Up",
+     "label": "What is the experimental probability of a red marble being drawn?",
+     "bytes": 20586
+    },
+    {
+     "path": "7.03a - Comparing Theoretical and Expe/Learn/01 - Sign - Comparing Theoretical and Experimental Probabilities.pdf",
+     "thumb": "thumbs/7.03a - Comparing Theoretical and Expe/Learn/01 - Sign - Comparing Theoretical and Experimental Probabilities.jpg",
+     "activity": "Learn",
+     "label": "Comparing Theoretical and Experimental Probabilities",
+     "bytes": 19163
+    }
+   ]
+  },
+  {
+   "page": "7-03b-creating-and-simulating-a-simple-experiment.html",
+   "heading": "7.03b",
+   "title": "Creating and Simulating a Simple Experiment",
+   "folder": "7.03b - Creating and Simulating a Simp",
+   "combined": {
+    "path": "7.03b - Creating and Simulating a Simp/7.03b - all cards.pdf",
+    "bytes": 47549
+   },
+   "files": [
+    {
+     "path": "7.03b - Creating and Simulating a Simp/Warm-Up/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/7.03b - Creating and Simulating a Simp/Warm-Up/01 - Moment 1 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "Suppose you are flipping a coin. What is the sample space for flipping a coin?",
+     "bytes": 20374
+    },
+    {
+     "path": "7.03b - Creating and Simulating a Simp/Warm-Up/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/7.03b - Creating and Simulating a Simp/Warm-Up/02 - Moment 2 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "If you are rolling a six-sided dice, what would the sample space be?",
+     "bytes": 20966
+    },
+    {
+     "path": "7.03b - Creating and Simulating a Simp/Warm-Up/03 - Moment 3 - Example 3.pdf",
+     "thumb": "thumbs/7.03b - Creating and Simulating a Simp/Warm-Up/03 - Moment 3 - Example 3.jpg",
+     "activity": "Warm-Up",
+     "label": "If you were drawing a marble from a bag that contains 3 green marbles, 4 red marbles, 2 blue marbles, and 5 yellow marbles, what is the sample space?",
+     "bytes": 21117
+    },
+    {
+     "path": "7.03b - Creating and Simulating a Simp/Learn/01 - Sign - Creating and Simulating a Simple Experiment.pdf",
+     "thumb": "thumbs/7.03b - Creating and Simulating a Simp/Learn/01 - Sign - Creating and Simulating a Simple Experiment.jpg",
+     "activity": "Learn",
+     "label": "Creating and Simulating a Simple Experiment",
+     "bytes": 19186
+    },
+    {
+     "path": "7.03b - Creating and Simulating a Simp/Learn/02 - Example Experiment Rolling a Dice.pdf",
+     "thumb": "thumbs/7.03b - Creating and Simulating a Simp/Learn/02 - Example Experiment Rolling a Dice.jpg",
+     "activity": "Learn",
+     "label": "Example Experiment: Rolling a Dice",
+     "bytes": 38964
+    }
+   ]
+  },
+  {
+   "page": "8-01a-area-of-parallelograms-and-rhombi.html",
+   "heading": "8.01a",
+   "title": "Area of Parallelograms and Rhombi",
+   "folder": "8.01a - Area of Parallelograms and Rho",
+   "combined": {
+    "path": "8.01a - Area of Parallelograms and Rho/8.01a - all cards.pdf",
+    "bytes": 104547
+   },
+   "files": [
+    {
+     "path": "8.01a - Area of Parallelograms and Rho/Warm-Up/01 - What is a Rectangle.pdf",
+     "thumb": "thumbs/8.01a - Area of Parallelograms and Rho/Warm-Up/01 - What is a Rectangle.jpg",
+     "activity": "Warm-Up",
+     "label": "What is a Rectangle?",
+     "bytes": 25966
+    },
+    {
+     "path": "8.01a - Area of Parallelograms and Rho/Warm-Up/02 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/8.01a - Area of Parallelograms and Rho/Warm-Up/02 - Moment 1 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "Find the area of a rectangle with a base of 8 units and a height of 3 units.",
+     "bytes": 19485
+    },
+    {
+     "path": "8.01a - Area of Parallelograms and Rho/Warm-Up/03 - Example 2.pdf",
+     "thumb": "thumbs/8.01a - Area of Parallelograms and Rho/Warm-Up/03 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "Example 2",
+     "bytes": 23972
+    },
+    {
+     "path": "8.01a - Area of Parallelograms and Rho/Warm-Up/04 - Moment 2 - Example 3.pdf",
+     "thumb": "thumbs/8.01a - Area of Parallelograms and Rho/Warm-Up/04 - Moment 2 - Example 3.jpg",
+     "activity": "Warm-Up",
+     "label": "Find the area of a triangle with a base of 10 units and a height of 5 units.",
+     "bytes": 19469
+    },
+    {
+     "path": "8.01a - Area of Parallelograms and Rho/Warm-Up/05 - Example 4.pdf",
+     "thumb": "thumbs/8.01a - Area of Parallelograms and Rho/Warm-Up/05 - Example 4.jpg",
+     "activity": "Warm-Up",
+     "label": "Example 4",
+     "bytes": 25469
+    },
+    {
+     "path": "8.01a - Area of Parallelograms and Rho/Learn/01 - Sign - Area of Parallelograms and Rhombi.pdf",
+     "thumb": "thumbs/8.01a - Area of Parallelograms and Rho/Learn/01 - Sign - Area of Parallelograms and Rhombi.jpg",
+     "activity": "Learn",
+     "label": "Area of Parallelograms and Rhombi",
+     "bytes": 18141
+    },
+    {
+     "path": "8.01a - Area of Parallelograms and Rho/Learn/02 - Parts of a Parallelogram.pdf",
+     "thumb": "thumbs/8.01a - Area of Parallelograms and Rho/Learn/02 - Parts of a Parallelogram.jpg",
+     "activity": "Learn",
+     "label": "Parts of a Parallelogram",
+     "bytes": 25923
+    },
+    {
+     "path": "8.01a - Area of Parallelograms and Rho/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/8.01a - Area of Parallelograms and Rho/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 33510
+    },
+    {
+     "path": "8.01a - Area of Parallelograms and Rho/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/8.01a - Area of Parallelograms and Rho/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 28305
+    },
+    {
+     "path": "8.01a - Area of Parallelograms and Rho/Examples/03 - Moment 1 - Example 3.pdf",
+     "thumb": "thumbs/8.01a - Area of Parallelograms and Rho/Examples/03 - Moment 1 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Find the area of a parallelogram that has a base of 10.3 cm and a height of 7 cm.",
+     "bytes": 18964
+    },
+    {
+     "path": "8.01a - Area of Parallelograms and Rho/Examples/04 - Diagonals in a Rhombus.pdf",
+     "thumb": "thumbs/8.01a - Area of Parallelograms and Rho/Examples/04 - Diagonals in a Rhombus.jpg",
+     "activity": "Examples",
+     "label": "Diagonals in a Rhombus",
+     "bytes": 37192
+    },
+    {
+     "path": "8.01a - Area of Parallelograms and Rho/Examples/05 - Moment 2 - Example 1.pdf",
+     "thumb": "thumbs/8.01a - Area of Parallelograms and Rho/Examples/05 - Moment 2 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Find the area of the rhombus shown that has diagonals of length 8 units and 6 units.",
+     "bytes": 19388
+    }
+   ]
+  },
+  {
+   "page": "8-01b-area-of-trapezoids.html",
+   "heading": "8.01b",
+   "title": "Area of Trapezoids",
+   "folder": "8.01b - Area of Trapezoids",
+   "combined": {
+    "path": "8.01b - Area of Trapezoids/8.01b - all cards.pdf",
+    "bytes": 64517
+   },
+   "files": [
+    {
+     "path": "8.01b - Area of Trapezoids/Learn/01 - Sign - Area of Trapezoids.pdf",
+     "thumb": "thumbs/8.01b - Area of Trapezoids/Learn/01 - Sign - Area of Trapezoids.jpg",
+     "activity": "Learn",
+     "label": "Area of Trapezoids",
+     "bytes": 17979
+    },
+    {
+     "path": "8.01b - Area of Trapezoids/Learn/02 - Parts of a Trapezoid.pdf",
+     "thumb": "thumbs/8.01b - Area of Trapezoids/Learn/02 - Parts of a Trapezoid.jpg",
+     "activity": "Learn",
+     "label": "Parts of a Trapezoid",
+     "bytes": 29656
+    },
+    {
+     "path": "8.01b - Area of Trapezoids/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/8.01b - Area of Trapezoids/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 28832
+    },
+    {
+     "path": "8.01b - Area of Trapezoids/Examples/02 - Moment 1 - Example 2.pdf",
+     "thumb": "thumbs/8.01b - Area of Trapezoids/Examples/02 - Moment 1 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Find the area of a trapezoid with bases of 6.5 cm and 9.5 cm, and a height of 3 cm.",
+     "bytes": 20775
+    },
+    {
+     "path": "8.01b - Area of Trapezoids/Examples/03 - Moment 2 - Example 3.pdf",
+     "thumb": "thumbs/8.01b - Area of Trapezoids/Examples/03 - Moment 2 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "What is the length of the height?",
+     "bytes": 18948
+    },
+    {
+     "path": "8.01b - Area of Trapezoids/Examples/04 - Example 4.pdf",
+     "thumb": "thumbs/8.01b - Area of Trapezoids/Examples/04 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "Example 4",
+     "bytes": 33473
+    }
+   ]
+  },
+  {
+   "page": "8-01c-area-of-polygons.html",
+   "heading": "8.01c",
+   "title": "Area of Polygons",
+   "folder": "8.01c - Area of Polygons",
+   "combined": {
+    "path": "8.01c - Area of Polygons/8.01c - all cards.pdf",
+    "bytes": 171247
+   },
+   "files": [
+    {
+     "path": "8.01c - Area of Polygons/Warm-Up/01 - Example 1.pdf",
+     "thumb": "thumbs/8.01c - Area of Polygons/Warm-Up/01 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "Example 1",
+     "bytes": 35734
+    },
+    {
+     "path": "8.01c - Area of Polygons/Warm-Up/02 - Example 2.pdf",
+     "thumb": "thumbs/8.01c - Area of Polygons/Warm-Up/02 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "Example 2",
+     "bytes": 38872
+    },
+    {
+     "path": "8.01c - Area of Polygons/Learn/01 - Sign - Area of Polygons.pdf",
+     "thumb": "thumbs/8.01c - Area of Polygons/Learn/01 - Sign - Area of Polygons.jpg",
+     "activity": "Learn",
+     "label": "Area of Polygons",
+     "bytes": 18213
+    },
+    {
+     "path": "8.01c - Area of Polygons/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/8.01c - Area of Polygons/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 31460
+    },
+    {
+     "path": "8.01c - Area of Polygons/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/8.01c - Area of Polygons/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 33969
+    },
+    {
+     "path": "8.01c - Area of Polygons/Examples/03 - Example 2.pdf",
+     "thumb": "thumbs/8.01c - Area of Polygons/Examples/03 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 42654
+    },
+    {
+     "path": "8.01c - Area of Polygons/Examples/04 - Example 3.pdf",
+     "thumb": "thumbs/8.01c - Area of Polygons/Examples/04 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 30777
+    },
+    {
+     "path": "8.01c - Area of Polygons/Examples/05 - Example 4.pdf",
+     "thumb": "thumbs/8.01c - Area of Polygons/Examples/05 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "Example 4",
+     "bytes": 34667
+    },
+    {
+     "path": "8.01c - Area of Polygons/Examples/06 - Example 4.pdf",
+     "thumb": "thumbs/8.01c - Area of Polygons/Examples/06 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "Example 4",
+     "bytes": 42227
+    }
+   ]
+  },
+  {
+   "page": "8-01d-area-of-composite-figures.html",
+   "heading": "8.01d",
+   "title": "Area of Composite Figures",
+   "folder": "8.01d - Area of Composite Figures",
+   "combined": {
+    "path": "8.01d - Area of Composite Figures/8.01d - all cards.pdf",
+    "bytes": 122300
+   },
+   "files": [
+    {
+     "path": "8.01d - Area of Composite Figures/Warm-Up/01 - What is a Rectangle.pdf",
+     "thumb": "thumbs/8.01d - Area of Composite Figures/Warm-Up/01 - What is a Rectangle.jpg",
+     "activity": "Warm-Up",
+     "label": "What is a Rectangle?",
+     "bytes": 25966
+    },
+    {
+     "path": "8.01d - Area of Composite Figures/Warm-Up/02 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/8.01d - Area of Composite Figures/Warm-Up/02 - Moment 1 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "Find the area of a rectangle with a base of 8 units and a height of 3 units.",
+     "bytes": 19486
+    },
+    {
+     "path": "8.01d - Area of Composite Figures/Warm-Up/03 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/8.01d - Area of Composite Figures/Warm-Up/03 - Moment 2 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "Find the area of a triangle with a base of 10 units and a height of 5 units.",
+     "bytes": 19468
+    },
+    {
+     "path": "8.01d - Area of Composite Figures/Warm-Up/04 - Example 3.pdf",
+     "thumb": "thumbs/8.01d - Area of Composite Figures/Warm-Up/04 - Example 3.jpg",
+     "activity": "Warm-Up",
+     "label": "Example 3",
+     "bytes": 34133
+    },
+    {
+     "path": "8.01d - Area of Composite Figures/Warm-Up/05 - Example 4.pdf",
+     "thumb": "thumbs/8.01d - Area of Composite Figures/Warm-Up/05 - Example 4.jpg",
+     "activity": "Warm-Up",
+     "label": "Example 4",
+     "bytes": 36605
+    },
+    {
+     "path": "8.01d - Area of Composite Figures/Warm-Up/06 - Example 5.pdf",
+     "thumb": "thumbs/8.01d - Area of Composite Figures/Warm-Up/06 - Example 5.jpg",
+     "activity": "Warm-Up",
+     "label": "Example 5",
+     "bytes": 29100
+    },
+    {
+     "path": "8.01d - Area of Composite Figures/Learn/01 - Sign - Area of Composite Figures.pdf",
+     "thumb": "thumbs/8.01d - Area of Composite Figures/Learn/01 - Sign - Area of Composite Figures.jpg",
+     "activity": "Learn",
+     "label": "Area of Composite Figures",
+     "bytes": 18492
+    },
+    {
+     "path": "8.01d - Area of Composite Figures/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/8.01d - Area of Composite Figures/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 37665
+    },
+    {
+     "path": "8.01d - Area of Composite Figures/Examples/02 - Example 1.pdf",
+     "thumb": "thumbs/8.01d - Area of Composite Figures/Examples/02 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 38489
+    }
+   ]
+  },
+  {
+   "page": "8-02a-circumference-of-a-circle.html",
+   "heading": "8.02a",
+   "title": "Circumference of a Circle",
+   "folder": "8.02a - Circumference of a Circle",
+   "combined": {
+    "path": "8.02a - Circumference of a Circle/8.02a - all cards.pdf",
+    "bytes": 73921
+   },
+   "files": [
+    {
+     "path": "8.02a - Circumference of a Circle/Warm-Up/01 - The Diameter of a Circle.pdf",
+     "thumb": "thumbs/8.02a - Circumference of a Circle/Warm-Up/01 - The Diameter of a Circle.jpg",
+     "activity": "Warm-Up",
+     "label": "The Diameter of a Circle",
+     "bytes": 37768
+    },
+    {
+     "path": "8.02a - Circumference of a Circle/Learn/01 - Sign - Circumference of a Circle.pdf",
+     "thumb": "thumbs/8.02a - Circumference of a Circle/Learn/01 - Sign - Circumference of a Circle.jpg",
+     "activity": "Learn",
+     "label": "Circumference of a Circle",
+     "bytes": 17793
+    },
+    {
+     "path": "8.02a - Circumference of a Circle/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/8.02a - Circumference of a Circle/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 35801
+    },
+    {
+     "path": "8.02a - Circumference of a Circle/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/8.02a - Circumference of a Circle/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 28688
+    },
+    {
+     "path": "8.02a - Circumference of a Circle/Examples/03 - Moment 1 - Example 3.pdf",
+     "thumb": "thumbs/8.02a - Circumference of a Circle/Examples/03 - Moment 1 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Find the approximate circumference of Circle A, rounded to the nearest hundredth.",
+     "bytes": 19415
+    },
+    {
+     "path": "8.02a - Circumference of a Circle/Examples/04 - Moment 2 - Example 4.pdf",
+     "thumb": "thumbs/8.02a - Circumference of a Circle/Examples/04 - Moment 2 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "Find the approximate circumference of Circle B, rounded to the nearest hundredth.",
+     "bytes": 19333
+    }
+   ]
+  },
+  {
+   "page": "8-02b-defining-pi.html",
+   "heading": "8.02b",
+   "title": "Defining Pi",
+   "folder": "8.02b - Defining Pi",
+   "combined": {
+    "path": "8.02b - Defining Pi/8.02b - all cards.pdf",
+    "bytes": 21888
+   },
+   "files": [
+    {
+     "path": "8.02b - Defining Pi/Learn/01 - Sign - Defining Pi.pdf",
+     "thumb": "thumbs/8.02b - Defining Pi/Learn/01 - Sign - Defining Pi.jpg",
+     "activity": "Learn",
+     "label": "Defining Pi",
+     "bytes": 18113
+    },
+    {
+     "path": "8.02b - Defining Pi/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/8.02b - Defining Pi/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Calculate the ratio of the circle's circumference to its diameter.",
+     "bytes": 18466
+    },
+    {
+     "path": "8.02b - Defining Pi/Examples/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/8.02b - Defining Pi/Examples/02 - Moment 2 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Calculate the ratio of the circle's circumference to its diameter.",
+     "bytes": 18290
+    }
+   ]
+  },
+  {
+   "page": "8-02c-area-of-a-circle.html",
+   "heading": "8.02c",
+   "title": "Area of a Circle",
+   "folder": "8.02c - Area of a Circle",
+   "combined": {
+    "path": "8.02c - Area of a Circle/8.02c - all cards.pdf",
+    "bytes": 45932
+   },
+   "files": [
+    {
+     "path": "8.02c - Area of a Circle/Learn/01 - Sign - Area of a Circle.pdf",
+     "thumb": "thumbs/8.02c - Area of a Circle/Learn/01 - Sign - Area of a Circle.jpg",
+     "activity": "Learn",
+     "label": "Area of a Circle",
+     "bytes": 17183
+    },
+    {
+     "path": "8.02c - Area of a Circle/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/8.02c - Area of a Circle/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 29076
+    },
+    {
+     "path": "8.02c - Area of a Circle/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/8.02c - Area of a Circle/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 28426
+    },
+    {
+     "path": "8.02c - Area of a Circle/Examples/03 - Moment 1 - Example 3.pdf",
+     "thumb": "thumbs/8.02c - Area of a Circle/Examples/03 - Moment 1 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Find the area of the circle, rounded to the nearest hundredth with appropriate units.",
+     "bytes": 18830
+    },
+    {
+     "path": "8.02c - Area of a Circle/Examples/04 - Moment 2 - Example 4.pdf",
+     "thumb": "thumbs/8.02c - Area of a Circle/Examples/04 - Moment 2 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "Find the approximate area of Circle F rounded to the nearest hundredth expressed with the appropriate units.",
+     "bytes": 19297
+    }
+   ]
+  },
+  {
+   "page": "8-03a-defining-and-finding-a-scale-factor.html",
+   "heading": "8.03a",
+   "title": "Defining and Finding a Scale Factor",
+   "folder": "8.03a - Defining and Finding a Scale F",
+   "combined": {
+    "path": "8.03a - Defining and Finding a Scale F/8.03a - all cards.pdf",
+    "bytes": 77993
+   },
+   "files": [
+    {
+     "path": "8.03a - Defining and Finding a Scale F/Learn/01 - Sign - Defining and Finding a Scale Factor.pdf",
+     "thumb": "thumbs/8.03a - Defining and Finding a Scale F/Learn/01 - Sign - Defining and Finding a Scale Factor.jpg",
+     "activity": "Learn",
+     "label": "Defining and Finding a Scale Factor",
+     "bytes": 18807
+    },
+    {
+     "path": "8.03a - Defining and Finding a Scale F/Learn/02 - Understanding Scale Factors.pdf",
+     "thumb": "thumbs/8.03a - Defining and Finding a Scale F/Learn/02 - Understanding Scale Factors.jpg",
+     "activity": "Learn",
+     "label": "Understanding Scale Factors",
+     "bytes": 37924
+    },
+    {
+     "path": "8.03a - Defining and Finding a Scale F/Learn/03 - Understanding Scale Factors.pdf",
+     "thumb": "thumbs/8.03a - Defining and Finding a Scale F/Learn/03 - Understanding Scale Factors.jpg",
+     "activity": "Learn",
+     "label": "Understanding Scale Factors",
+     "bytes": 36531
+    },
+    {
+     "path": "8.03a - Defining and Finding a Scale F/Examples/01 - Problem 1.pdf",
+     "thumb": "thumbs/8.03a - Defining and Finding a Scale F/Examples/01 - Problem 1.jpg",
+     "activity": "Examples",
+     "label": "Problem 1",
+     "bytes": 36729
+    }
+   ]
+  },
+  {
+   "page": "8-03b-using-scale-factors.html",
+   "heading": "8.03b",
+   "title": "Using Scale Factors",
+   "folder": "8.03b - Using Scale Factors",
+   "combined": {
+    "path": "8.03b - Using Scale Factors/8.03b - all cards.pdf",
+    "bytes": 41727
+   },
+   "files": [
+    {
+     "path": "8.03b - Using Scale Factors/Warm-Up/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/8.03b - Using Scale Factors/Warm-Up/01 - Moment 1 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "If a recipe calls for 2 cups of flour to 1 cup of sugar, what is the ratio of flour to sugar?",
+     "bytes": 20402
+    },
+    {
+     "path": "8.03b - Using Scale Factors/Learn/01 - Sign - Using Scale Factors.pdf",
+     "thumb": "thumbs/8.03b - Using Scale Factors/Learn/01 - Sign - Using Scale Factors.jpg",
+     "activity": "Learn",
+     "label": "Using Scale Factors",
+     "bytes": 18919
+    },
+    {
+     "path": "8.03b - Using Scale Factors/Examples/01 - Example.pdf",
+     "thumb": "thumbs/8.03b - Using Scale Factors/Examples/01 - Example.jpg",
+     "activity": "Examples",
+     "label": "Example",
+     "bytes": 35139
+    }
+   ]
+  },
+  {
+   "page": "8-03c-scale-factors-and-area.html",
+   "heading": "8.03c",
+   "title": "Scale Factors and Area",
+   "folder": "8.03c - Scale Factors and Area",
+   "combined": {
+    "path": "8.03c - Scale Factors and Area/8.03c - all cards.pdf",
+    "bytes": 43862
+   },
+   "files": [
+    {
+     "path": "8.03c - Scale Factors and Area/Warm-Up/01 - What is a Rectangle.pdf",
+     "thumb": "thumbs/8.03c - Scale Factors and Area/Warm-Up/01 - What is a Rectangle.jpg",
+     "activity": "Warm-Up",
+     "label": "What is a Rectangle?",
+     "bytes": 26205
+    },
+    {
+     "path": "8.03c - Scale Factors and Area/Warm-Up/02 - Example 1.pdf",
+     "thumb": "thumbs/8.03c - Scale Factors and Area/Warm-Up/02 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "Example 1",
+     "bytes": 29445
+    },
+    {
+     "path": "8.03c - Scale Factors and Area/Warm-Up/03 - Moment 1 - Example 2.pdf",
+     "thumb": "thumbs/8.03c - Scale Factors and Area/Warm-Up/03 - Moment 1 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "Find the area of the circle, rounded to the nearest hundredth with appropriate units.",
+     "bytes": 19007
+    },
+    {
+     "path": "8.03c - Scale Factors and Area/Learn/01 - Sign - Scale Factors and Area.pdf",
+     "thumb": "thumbs/8.03c - Scale Factors and Area/Learn/01 - Sign - Scale Factors and Area.jpg",
+     "activity": "Learn",
+     "label": "Scale Factors and Area",
+     "bytes": 17714
+    }
+   ]
+  },
+  {
+   "page": "9-01a-surface-area-of-a-cylinder-using-a-net.html",
+   "heading": "9.01a",
+   "title": "Surface Area of a Cylinder Using a Net",
+   "folder": "9.01a - Surface Area of a Cylinder Usi",
+   "combined": {
+    "path": "9.01a - Surface Area of a Cylinder Usi/9.01a - all cards.pdf",
+    "bytes": 63511
+   },
+   "files": [
+    {
+     "path": "9.01a - Surface Area of a Cylinder Usi/Learn/01 - Sign - Surface Area of a Cylinder Using a Net.pdf",
+     "thumb": "thumbs/9.01a - Surface Area of a Cylinder Usi/Learn/01 - Sign - Surface Area of a Cylinder Using a Net.jpg",
+     "activity": "Learn",
+     "label": "Surface Area of a Cylinder Using a Net",
+     "bytes": 19356
+    },
+    {
+     "path": "9.01a - Surface Area of a Cylinder Usi/Learn/02 - What is a Net for a Cylinder and How Can It Be Used to Find the Surfac.pdf",
+     "thumb": "thumbs/9.01a - Surface Area of a Cylinder Usi/Learn/02 - What is a Net for a Cylinder and How Can It Be Used to Find the Surfac.jpg",
+     "activity": "Learn",
+     "label": "What is a Net for a Cylinder and How Can It Be Used to Find the Surface Area?",
+     "bytes": 43420
+    },
+    {
+     "path": "9.01a - Surface Area of a Cylinder Usi/Learn/03 - What is a Net for a Cylinder and How Can It Be Used to Find the Surfac.pdf",
+     "thumb": "thumbs/9.01a - Surface Area of a Cylinder Usi/Learn/03 - What is a Net for a Cylinder and How Can It Be Used to Find the Surfac.jpg",
+     "activity": "Learn",
+     "label": "What is a Net for a Cylinder and How Can It Be Used to Find the Surface Area?",
+     "bytes": 36883
+    },
+    {
+     "path": "9.01a - Surface Area of a Cylinder Usi/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/9.01a - Surface Area of a Cylinder Usi/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 39613
+    },
+    {
+     "path": "9.01a - Surface Area of a Cylinder Usi/Examples/02 - Example 1.pdf",
+     "thumb": "thumbs/9.01a - Surface Area of a Cylinder Usi/Examples/02 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 33080
+    }
+   ]
+  },
+  {
+   "page": "9-01b-surface-area-of-a-cylinder.html",
+   "heading": "9.01b",
+   "title": "Surface Area of a Cylinder",
+   "folder": "9.01b - Surface Area of a Cylinder",
+   "combined": {
+    "path": "9.01b - Surface Area of a Cylinder/9.01b - all cards.pdf",
+    "bytes": 115021
+   },
+   "files": [
+    {
+     "path": "9.01b - Surface Area of a Cylinder/Learn/01 - Sign - Surface Area of a Cylinder.pdf",
+     "thumb": "thumbs/9.01b - Surface Area of a Cylinder/Learn/01 - Sign - Surface Area of a Cylinder.jpg",
+     "activity": "Learn",
+     "label": "Surface Area of a Cylinder",
+     "bytes": 18807
+    },
+    {
+     "path": "9.01b - Surface Area of a Cylinder/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/9.01b - Surface Area of a Cylinder/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 58718
+    },
+    {
+     "path": "9.01b - Surface Area of a Cylinder/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/9.01b - Surface Area of a Cylinder/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 43484
+    },
+    {
+     "path": "9.01b - Surface Area of a Cylinder/Examples/03 - Example 3.pdf",
+     "thumb": "thumbs/9.01b - Surface Area of a Cylinder/Examples/03 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 44961
+    }
+   ]
+  },
+  {
+   "page": "9-01c-volume-of-a-cylinder.html",
+   "heading": "9.01c",
+   "title": "Volume of a Cylinder",
+   "folder": "9.01c - Volume of a Cylinder",
+   "combined": {
+    "path": "9.01c - Volume of a Cylinder/9.01c - all cards.pdf",
+    "bytes": 115018
+   },
+   "files": [
+    {
+     "path": "9.01c - Volume of a Cylinder/Learn/01 - Sign - Volume of a Cylinder.pdf",
+     "thumb": "thumbs/9.01c - Volume of a Cylinder/Learn/01 - Sign - Volume of a Cylinder.jpg",
+     "activity": "Learn",
+     "label": "Volume of a Cylinder",
+     "bytes": 18389
+    },
+    {
+     "path": "9.01c - Volume of a Cylinder/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/9.01c - Volume of a Cylinder/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 58392
+    },
+    {
+     "path": "9.01c - Volume of a Cylinder/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/9.01c - Volume of a Cylinder/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 43163
+    },
+    {
+     "path": "9.01c - Volume of a Cylinder/Examples/03 - Example 3.pdf",
+     "thumb": "thumbs/9.01c - Volume of a Cylinder/Examples/03 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 44630
+    }
+   ]
+  },
+  {
+   "page": "9-02a-finding-missing-dimensions.html",
+   "heading": "9.02a",
+   "title": "Finding Missing Dimensions",
+   "folder": "9.02a - Finding Missing Dimensions",
+   "combined": {
+    "path": "9.02a - Finding Missing Dimensions/9.02a - all cards.pdf",
+    "bytes": 98328
+   },
+   "files": [
+    {
+     "path": "9.02a - Finding Missing Dimensions/Learn/01 - Sign - Finding Missing Dimensions.pdf",
+     "thumb": "thumbs/9.02a - Finding Missing Dimensions/Learn/01 - Sign - Finding Missing Dimensions.jpg",
+     "activity": "Learn",
+     "label": "Finding Missing Dimensions",
+     "bytes": 17647
+    },
+    {
+     "path": "9.02a - Finding Missing Dimensions/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/9.02a - Finding Missing Dimensions/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 42613
+    },
+    {
+     "path": "9.02a - Finding Missing Dimensions/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/9.02a - Finding Missing Dimensions/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 43589
+    },
+    {
+     "path": "9.02a - Finding Missing Dimensions/Examples/03 - Example 3.pdf",
+     "thumb": "thumbs/9.02a - Finding Missing Dimensions/Examples/03 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 44079
+    }
+   ]
+  },
+  {
+   "page": "9-02b-solving-real-world-problems.html",
+   "heading": "9.02b",
+   "title": "Solving Real-World Problems",
+   "folder": "9.02b - Solving Real-World Problems",
+   "combined": {
+    "path": "9.02b - Solving Real-World Problems/9.02b - all cards.pdf",
+    "bytes": 19192
+   },
+   "files": [
+    {
+     "path": "9.02b - Solving Real-World Problems/Learn/01 - Sign - Solving Real-World Problems.pdf",
+     "thumb": "thumbs/9.02b - Solving Real-World Problems/Learn/01 - Sign - Solving Real-World Problems.jpg",
+     "activity": "Learn",
+     "label": "Solving Real-World Problems",
+     "bytes": 19192
+    }
+   ]
+  }
+ ]
+}
